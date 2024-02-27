@@ -1,0 +1,38 @@
+
+sunspots: Monthly sunspot numbers for 225 years (divided by 250 to scale)
+(/home/egullich/wavelet/Wavelab850/Datasets/sunspots.txt)
+
+yahoo1.py --start='2020-01-01' --end='2020-02-01' --sym=ETH-USD --interval=1h >ethusd_hourly
+yahoo1.py --start='2020-02-01' --end='2020-03-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-03-01' --end='2020-04-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-04-01' --end='2020-05-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-05-01' --end='2020-06-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-06-01' --end='2020-07-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-07-01' --end='2020-08-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-08-01' --end='2020-09-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-09-01' --end='2020-10-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-10-01' --end='2020-11-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-11-01' --end='2020-12-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2020-12-01' --end='2021-01-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-01-01' --end='2021-02-01' --sym=ETH-USD --interval=1h >ethusd_hourly
+yahoo1.py --start='2021-02-01' --end='2021-03-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-03-01' --end='2021-04-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-04-01' --end='2021-05-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-05-01' --end='2021-06-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-06-01' --end='2021-07-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-07-01' --end='2021-08-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-08-01' --end='2021-09-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+yahoo1.py --start='2021-09-01' --end='2021-10-01' --sym=ETH-USD --interval=1h >>ethusd_hourly
+
+-------------------
+
+
+cd /home/egullich/forex/randomwalks
+randomLnWalk --length=10000 --stdev=0.01 >/tmp/randomLnWalk
+randomLnWalk --length=10000 --stdev=0.01 >/tmp/randomLnWalk2
+
+------------------------
+
+cd /home/egullich/forex/data/forex/dukascopy/hourly
+paste -d' ' eurusd_close gbpusd_close usdchf_close usdjpy_close xauusd_close >/tmp/forex_hourly
+

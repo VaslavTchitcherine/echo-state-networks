@@ -1,0 +1,705 @@
+svesn.pl --wscale=1.055494 --radius=0.261265 --leakage=0.464078 --log2c=-10.009196 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=1.195139 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.958441 --radius=1.576958 --leakage=0.109776 --log2c=5.649559 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.608492 --radius=1.707878 --leakage=0.543396 --log2c=-3.224845 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.573130 --radius=1.539780 --leakage=0.216210 --log2c=8.136612 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.315339 --radius=0.632762 --leakage=0.013950 --log2c=1.356392 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.238529 --radius=1.990457 --leakage=0.268095 --log2c=-4.657881 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.722686 --radius=1.679763 --leakage=0.517430 --log2c=-19.825184 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.823962 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.277774 --log2c=2.605358 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-17.718872 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.876112 --radius=1.094663 --leakage=0.012885 --log2c=4.707080 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.008708 --radius=0.147707 --leakage=0.815732 --log2c=0.668554 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.796232 --leakage=0.219788 --log2c=-15.257053 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516600 --radius=1.343235 --leakage=0.048420 --log2c=-15.669712 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079068 --radius=1.309151 --leakage=0.738621 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.685307 --radius=1.089845 --leakage=0.459738 --log2c=-18.206472 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.947130 --log2c=-6.233556 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.939929 --radius=0.630059 --leakage=0.744088 --log2c=-2.165613 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.410473 --radius=1.058298 --leakage=0.946911 --log2c=-6.178024 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.307742 --radius=1.928245 --leakage=0.041707 --log2c=-18.644229 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.592775 --radius=0.191988 --leakage=0.345932 --log2c=-14.506478 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.288884 --radius=1.448572 --leakage=0.437227 --log2c=-5.653972 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.507580 --radius=1.965699 --leakage=0.972927 --log2c=-2.304735 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079321 --radius=0.703299 --leakage=0.734931 --log2c=-15.317150 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.919839 --radius=0.813846 --leakage=0.751719 --log2c=1.414980 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.689656 --radius=1.757953 --leakage=0.295091 --log2c=-2.972757 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.744061 --radius=1.410181 --leakage=0.977503 --log2c=-0.651505 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.268245 --radius=1.207968 --leakage=0.453122 --log2c=-15.004139 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.135863 --radius=0.521155 --leakage=0.742801 --log2c=-14.768622 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.055107 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=0.832901 --leakage=0.136679 --log2c=-14.903973 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.222951 --leakage=0.803902 --log2c=-5.283886 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.943851 --radius=0.400869 --leakage=0.261711 --log2c=-12.947387 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.817340 --radius=1.502413 --leakage=0.452393 --log2c=6.405627 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.632181 --radius=0.706053 --leakage=0.896382 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.772164 --radius=1.748731 --leakage=0.580828 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.454834 --radius=1.535347 --leakage=0.252125 --log2c=-6.733907 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.214995 --radius=0.685147 --leakage=0.011397 --log2c=-18.574343 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.422147 --log2c=-12.063354 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.486494 --radius=1.653197 --leakage=0.795843 --log2c=-5.751115 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.818554 --radius=1.581490 --leakage=0.602269 --log2c=3.365806 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.954327 --radius=0.513615 --leakage=0.299050 --log2c=2.804480 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.335608 --radius=1.648688 --leakage=0.871756 --log2c=-5.369698 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.846802 --radius=1.959129 --leakage=0.758845 --log2c=-10.072221 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.547677 --radius=0.710952 --leakage=0.798971 --log2c=-13.392071 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.881271 --radius=0.679069 --leakage=0.247153 --log2c=-0.155451 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.553244 --radius=0.728308 --leakage=0.426907 --log2c=1.951633 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=1.723854 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=0.553493 --leakage=0.864836 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.694722 --radius=0.967836 --leakage=0.944163 --log2c=-16.899829 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.339833 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.191277 --radius=0.917053 --leakage=0.724056 --log2c=2.604392 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.827757 --leakage=0.668549 --log2c=2.550853 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.433481 --radius=1.665433 --leakage=0.605324 --log2c=-4.033816 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.055144 --radius=0.426955 --leakage=0.818181 --log2c=-11.048036 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.845569 --radius=1.079920 --leakage=0.192243 --log2c=-6.686000 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.478516 --radius=0.505002 --leakage=0.764075 --log2c=-1.713631 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.243893 --radius=1.926531 --leakage=0.472154 --log2c=-12.363991 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.252661 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.896401 --radius=1.075158 --leakage=0.039650 --log2c=1.064320 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.853154 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=4.710104 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.711676 --radius=1.898422 --leakage=0.148214 --log2c=-19.132789 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.487044 --radius=0.511951 --leakage=0.986391 --log2c=-15.338069 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.859293 --radius=1.507546 --leakage=0.059120 --log2c=3.133851 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.227603 --radius=1.404990 --leakage=0.523982 --log2c=-6.632923 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.490108 --radius=1.610207 --leakage=0.396303 --log2c=-8.409454 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.895132 --radius=0.369574 --leakage=0.429020 --log2c=-3.369986 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.429796 --radius=1.488778 --leakage=0.225874 --log2c=-0.902971 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.679823 --radius=0.355395 --leakage=0.822079 --log2c=7.833068 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.248394 --radius=0.605338 --leakage=0.553734 --log2c=-18.085830 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.955967 --radius=0.874416 --leakage=0.980954 --log2c=-4.338565 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.833936 --radius=0.137393 --leakage=0.466824 --log2c=-15.522923 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.458618 --radius=0.762188 --leakage=0.399281 --log2c=9.552688 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.345590 --radius=0.317990 --leakage=0.232224 --log2c=-17.641390 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.948895 --radius=1.243459 --leakage=0.732323 --log2c=-19.862080 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.890745 --radius=1.994005 --leakage=0.658534 --log2c=-6.236214 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.151410 --radius=1.091466 --leakage=0.477872 --log2c=2.293041 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119640 --radius=0.903279 --leakage=0.566698 --log2c=8.062780 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.808303 --radius=1.444410 --leakage=0.618739 --log2c=-12.349410 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.843477 --radius=0.316234 --leakage=0.825497 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.976946 --radius=1.769477 --leakage=0.911807 --log2c=-14.228224 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.439400 --radius=1.480069 --leakage=0.938520 --log2c=-7.015730 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.855312 --radius=0.288867 --leakage=0.788782 --log2c=-18.491034 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.289944 --radius=0.239919 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+gen 0 best: 54.62624, avg: 50.3807102
+svesn.pl --wscale=0.298770 --radius=0.967836 --leakage=0.944163 --log2c=-16.899829 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.694722 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.339833 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.827757 --leakage=0.668549 --log2c=2.550853 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.827757 --leakage=0.795843 --log2c=-5.751115 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.486494 --radius=1.653197 --leakage=0.668549 --log2c=2.550853 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.289944 --radius=0.239919 --leakage=0.803902 --log2c=-5.283886 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.222951 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.055107 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=2.605358 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.277774 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.222951 --leakage=0.803902 --log2c=-5.283886 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079321 --radius=0.703299 --leakage=0.734931 --log2c=-15.317150 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=1.116988 --leakage=0.322195 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=0.663242 --leakage=0.252661 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.289944 --radius=0.239919 --leakage=0.886880 --log2c=-6.233556 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=0.553493 --leakage=0.864836 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=1.195139 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.843477 --radius=0.316234 --leakage=0.825497 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.818554 --radius=1.581490 --leakage=0.602269 --log2c=3.365806 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.345590 --radius=0.317990 --leakage=0.232224 --log2c=-17.641390 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.252661 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.823962 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=4.710104 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.808303 --radius=1.444410 --leakage=0.618739 --log2c=-12.349410 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=0.553493 --leakage=0.864836 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.653197 --leakage=0.795843 --log2c=-5.751115 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.486494 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-12.363991 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.243893 --radius=1.926531 --leakage=0.472154 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=1.757953 --leakage=0.295091 --log2c=-2.972757 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.689656 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.710952 --leakage=0.798971 --log2c=-13.392071 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.547677 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.796232 --leakage=0.219788 --log2c=-15.257053 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079068 --radius=1.309151 --leakage=0.738621 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=1.723854 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.191277 --radius=1.898422 --leakage=0.148214 --log2c=-19.132789 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.711676 --radius=0.917053 --leakage=0.724056 --log2c=2.604392 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.055144 --radius=0.426955 --leakage=0.818181 --log2c=-11.048036 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.466824 --log2c=-15.522923 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.833936 --radius=0.137393 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.954327 --radius=0.513615 --leakage=0.299050 --log2c=2.804480 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=4.710104 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.289944 --radius=0.239919 --leakage=0.422147 --log2c=-12.063354 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-17.718872 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.422147 --log2c=-12.063354 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=4.710104 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=0.832901 --leakage=0.136679 --log2c=-14.903973 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.954327 --radius=0.513615 --leakage=0.972927 --log2c=-2.304735 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.507580 --radius=1.965699 --leakage=0.299050 --log2c=2.804480 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.076130 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.823962 --radius=0.862513 --leakage=0.966726 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.881271 --radius=0.679069 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.289944 --radius=0.239919 --leakage=0.886880 --log2c=-0.155451 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.895132 --radius=0.369574 --leakage=0.972927 --log2c=-2.304735 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.507580 --radius=1.965699 --leakage=0.429020 --log2c=-3.369986 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=1.116988 --leakage=0.322195 --log2c=4.710104 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.772164 --radius=1.748731 --leakage=0.580828 --log2c=2.293041 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.151410 --radius=1.091466 --leakage=0.477872 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.573130 --radius=1.539780 --leakage=0.605324 --log2c=-4.033816 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.433481 --radius=1.665433 --leakage=0.216210 --log2c=8.136612 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.135863 --radius=0.521155 --leakage=0.742801 --log2c=-14.768622 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.339833 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-19.825184 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.722686 --radius=1.679763 --leakage=0.517430 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079321 --radius=0.703299 --leakage=0.734931 --log2c=-15.317150 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.632181 --radius=0.706053 --leakage=0.896382 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.853154 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.238529 --radius=1.990457 --leakage=0.268095 --log2c=-4.657881 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.553244 --radius=0.728308 --leakage=0.426907 --log2c=1.951633 --input=/tmp/FASFAZ_1min
+gen 1 best: 54.62624, avg: 50.4269698
+svesn.pl --wscale=0.380708 --radius=0.663242 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.881271 --radius=0.679069 --leakage=0.252661 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.151410 --radius=1.091466 --leakage=0.477872 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=1.723854 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.954327 --radius=1.116988 --leakage=0.322195 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.513615 --leakage=0.299050 --log2c=2.804480 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.994361 --leakage=0.556317 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079068 --radius=0.222951 --leakage=0.803902 --log2c=-5.283886 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.738621 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.653197 --leakage=0.795843 --log2c=-5.751115 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=1.723854 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.076130 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.438090 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.055107 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.547677 --radius=0.934929 --leakage=0.028141 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.277774 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.853154 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.055107 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.151410 --radius=1.091466 --leakage=0.477872 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.631988 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.823962 --radius=1.352069 --leakage=0.466824 --log2c=-15.522923 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.710952 --leakage=0.798971 --log2c=-13.392071 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-17.718872 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.833936 --radius=0.137393 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.837192 --leakage=0.518037 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.028141 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.518037 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=1.723854 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=0.553493 --leakage=0.864836 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.116988 --leakage=0.322195 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079321 --radius=0.703299 --leakage=0.734931 --log2c=-18.905593 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-15.317150 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=0.832901 --leakage=0.136679 --log2c=-14.903973 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.689656 --radius=1.298643 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=0.806925 --leakage=0.051082 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-19.825184 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=1.195139 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=1.442188 --leakage=0.051082 --log2c=-19.825184 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.843477 --radius=0.316234 --leakage=0.825497 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.339833 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.219788 --log2c=-15.257053 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.796232 --leakage=0.076130 --log2c=2.605358 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.243893 --radius=1.926531 --leakage=0.472154 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.055107 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.632181 --radius=0.706053 --leakage=0.896382 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.994361 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+gen 2 best: 54.62624, avg: 50.4597992
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.339833 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.438090 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=1.098756 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.379478 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=0.553493 --leakage=0.864836 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.141698 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.442188 --leakage=0.051082 --log2c=-19.825184 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.723854 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.158734 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.994361 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.615789 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.853154 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.079068 --radius=0.222951 --leakage=0.803902 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.055107 --log2c=-5.283886 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.244094 --leakage=0.379478 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.076130 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.298643 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.691586 --radius=0.663242 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=0.663242 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.076130 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.837192 --leakage=0.518037 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.252661 --log2c=0.924792 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.881271 --radius=0.679069 --leakage=0.051082 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.796232 --leakage=0.076130 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.028141 --log2c=2.605358 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.438090 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.076130 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.377738 --radius=0.642559 --leakage=0.325843 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.028141 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.518037 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.738621 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.243893 --radius=1.926531 --leakage=0.472154 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.886880 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.195139 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.344413 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.698491 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.837192 --leakage=0.853154 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.518037 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.344413 --leakage=0.277521 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.552471 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.098717 --radius=1.442188 --leakage=0.051082 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-11.947695 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.726402 --leakage=0.540182 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-17.718872 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.055107 --log2c=-14.088173 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=1.344413 --leakage=0.379478 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.076130 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.966726 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.277774 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.909770 --log2c=-19.715389 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.631988 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.438090 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.896382 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.632181 --radius=0.706053 --leakage=0.738621 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.244094 --leakage=0.738621 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.966726 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=1.723854 --leakage=0.277521 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.322195 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+gen 3 best: 54.62624, avg: 50.7206066
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=1.837192 --leakage=0.518037 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.017214 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=1.309151 --leakage=0.896382 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.379478 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.886880 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.244094 --leakage=0.379478 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.028141 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=0.878840 --leakage=0.615789 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.663242 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=1.195139 --leakage=0.325843 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.379478 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.518037 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.017214 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.244094 --leakage=0.379478 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=1.723854 --leakage=0.076130 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.411427 --radius=1.688754 --leakage=0.277521 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.389639 --radius=1.396789 --leakage=0.615789 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=1.352069 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.726402 --leakage=0.076130 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.862513 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.028141 --log2c=-0.890206 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.244094 --leakage=0.379478 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.796232 --leakage=0.076130 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.631988 --leakage=0.192816 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.853154 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.192816 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.631988 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.028141 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.994361 --leakage=0.556317 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.738621 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.438090 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=1.098756 --leakage=0.947130 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.244094 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.676714 --radius=0.726402 --leakage=0.540182 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.615789 --log2c=-10.526148 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=1.116988 --leakage=0.322195 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=1.837192 --leakage=0.853154 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.540182 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.379478 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=1.098756 --leakage=0.339833 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=0.994361 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=1.293613 --leakage=0.379478 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.689093 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.518037 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=1.309151 --leakage=0.379478 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=1.837192 --leakage=0.853154 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.689093 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=1.116988 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.966726 --log2c=4.574779 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.862513 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.380708 --radius=0.663242 --leakage=0.247153 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+gen 4 best: 54.62624, avg: 50.8321202
+svesn.pl --wscale=1.042161 --radius=1.837192 --leakage=0.853154 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.252661 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.540182 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.017214 --log2c=-18.543599 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.171403 --leakage=0.379478 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.252661 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.663242 --leakage=0.379478 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.994361 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.878840 --leakage=0.615789 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.878840 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.878840 --leakage=0.615789 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.878840 --leakage=0.137133 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.552471 --log2c=-0.040293 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=1.116988 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.994361 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.663242 --leakage=0.247153 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.726402 --leakage=0.540182 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.446655 --radius=0.124150 --leakage=0.458747 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.495707 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=0.663242 --leakage=0.886880 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.439649 --leakage=0.379478 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=0.994361 --leakage=0.192816 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=1.997013 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.508882 --radius=0.878840 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.439649 --leakage=0.886880 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.192816 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.298770 --radius=0.994361 --leakage=0.192816 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.244094 --leakage=0.379478 --log2c=-12.437182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.137133 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.252661 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.112497 --radius=1.723854 --leakage=0.076130 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=1.116988 --leakage=0.322195 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.591205 --radius=0.878840 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.017214 --log2c=4.555399 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.017214 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.119220 --radius=0.994361 --leakage=0.966726 --log2c=-10.717586 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.994361 --leakage=0.556317 --log2c=-1.440182 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.689093 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.192816 --log2c=-7.908651 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.689093 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.878840 --leakage=0.615789 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.017214 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.689093 --leakage=0.615789 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.615789 --log2c=-9.776800 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.518037 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.878840 --leakage=0.252661 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.689093 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.615789 --log2c=-8.785657 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.878840 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.994361 --leakage=0.556317 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.667714 --radius=0.726402 --leakage=0.252661 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.372611 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.129327 --radius=1.997013 --leakage=0.192816 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.635476 --radius=0.631988 --leakage=0.372611 --log2c=6.501230 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.516153 --radius=0.726402 --leakage=0.540182 --log2c=-8.041037 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.881395 --radius=0.994361 --leakage=0.192816 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.042161 --radius=0.994361 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.726402 --leakage=0.540182 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.642328 --radius=0.934929 --leakage=0.137133 --log2c=-7.942948 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.919773 --radius=1.195139 --leakage=0.028141 --log2c=0.024659 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.379478 --log2c=3.221842 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.137133 --log2c=2.683849 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.665364 --radius=1.040193 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.663242 --leakage=0.017214 --log2c=-19.564592 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.689093 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.504437 --radius=0.726402 --leakage=0.540182 --log2c=-10.285123 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=1.352069 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.894740 --radius=0.631988 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=1.878336 --radius=0.689093 --leakage=0.028141 --log2c=-19.815064 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.934929 --leakage=0.192816 --log2c=-1.042422 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=0.663242 --leakage=0.247153 --log2c=0.321010 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.969994 --radius=1.352069 --leakage=0.017214 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+svesn.pl --wscale=0.824021 --radius=0.934929 --leakage=0.137133 --log2c=-16.905560 --input=/tmp/FASFAZ_1min
+54.62624 0.824020659786997 1.35206861900151 0.0172141852691512 -16.9055598775214
+52.38384 0.665364180615775 1.04019330943995 0.540182052131381 -10.2851228401683 
+52 0.969994394459898 0.878839724430259 0.252660656442094 -8.0410369269574 
+51.8687 0.969994394459898 0.878839724430259 0.192816420544494 -7.90865106575744 
+51.83838 0.881395109498681 0.994361455411101 0.192816420544494 -7.94294798853379 
+51.8283 0.969994394459898 1.11698801919354 0.322195240996299 -8.78565693770177 
+51.82826 1.12932672081683 0.994361455411101 0.192816420544494 -7.94294798853379 
+51.7879 0.969994394459898 0.878839724430259 0.252660656442094 -10.2851228401683 
+51.74748 1.04216094107985 0.726401521902254 0.540182052131381 -8.0410369269574 
+51.74746 0.969994394459898 0.878839724430259 0.615789300260184 -8.78565693770177 
+51.70708 0.969994394459898 0.726401521902254 0.540182052131381 -7.94294798853379 
+51.68686 1.64232797806456 0.726401521902254 0.540182052131381 -7.94294798853379 
+51.62626 0.667714071655663 0.726401521902254 0.540182052131381 -8.0410369269574 
+51.60608 0.969994394459898 0.934928861257384 0.192816420544494 -7.94294798853379 
+51.59594 0.969994394459898 0.934928861257384 0.518037118046397 3.22184189953639 
+51.54548 0.969994394459898 0.726401521902254 0.540182052131381 -8.0410369269574 
+51.54544 1.59120533232109 0.878839724430259 0.615789300260184 -8.78565693770177 
+51.49496 1.87833612735511 0.689093163580325 0.192816420544494 -7.90865106575744 
+51.49494 0.881395109498681 0.171402780634598 0.379477521217817 -8.0410369269574 
+51.49494 1.04216094107985 0.994361455411101 0.615789300260184 -8.78565693770177 
+51.49494 1.64232797806456 0.934928861257384 0.137133030019589 -7.94294798853379 
+51.45454 1.04216094107985 0.663241777189377 0.379477521217817 -7.90865106575744 
+51.45454 1.04216094107985 1.11698801919354 0.615789300260184 -8.78565693770177 
+51.44446 0.667714071655663 0.726401521902254 0.615789300260184 -8.78565693770177 
+51.44444 1.89474025290342 0.631988349291731 0.192816420544494 -7.90865106575744 
+51.44444 0.516152527876704 0.726401521902254 0.540182052131381 -8.0410369269574 
+51.43434 1.50888197827273 0.439649485811644 0.379477521217817 -7.90865106575744 
+51.43434 1.50443664498209 0.726401521902254 0.540182052131381 -10.2851228401683 
+51.40404 0.969994394459898 1.11698801919354 0.322195240996299 -8.78565693770177 
+51.39394 0.516152527876704 0.878839724430259 0.552471411875974 -0.0402927503143502 
+51.39392 1.64232797806456 0.726401521902254 0.540182052131381 -8.78565693770177 
+51.39392 0.969994394459898 0.878839724430259 0.615789300260184 -8.78565693770177 
+51.37376 1.89474025290342 0.631988349291731 0.615789300260184 -8.78565693770177 
+51.36366 0.9197726092435 1.19513866742634 0.0281406659518401 -19.8150636128288 
+51.36366 1.87833612735511 0.878839724430259 0.252660656442094 -8.0410369269574 
+51.35356 1.44665547696301 0.124150043754855 0.45874746456463 -7.90865106575744 
+51.34344 0.667714071655663 0.726401521902254 0.252660656442094 2.68384943373583 
+51.33334 1.49570681330303 0.726401521902254 0.540182052131381 -8.0410369269574 
+51.33334 1.87833612735511 0.689093163580325 0.615789300260184 -8.78565693770177 
+51.33334 0.667714071655663 0.878839724430259 0.137133030019589 -7.94294798853379 
+51.32326 0.969994394459898 0.878839724430259 0.615789300260184 -9.77680042705622 
+51.30302 0.667714071655663 0.726401521902254 0.252660656442094 4.55539893997333 
+51.29294 0.969994394459898 0.878839724430259 0.615789300260184 -9.77680042705622 
+51.28282 1.89474025290342 0.689093163580325 0.0172141852691512 -19.5645916973819 
+51.25252 0.112496960174456 1.72385415768717 0.0761301769680178 3.22184189953639 
+51.2525 1.89474025290342 0.631988349291731 0.0281406659518401 -19.8150636128288 
+51.24242 1.49570681330303 0.878839724430259 0.615789300260184 -8.78565693770177 
+51.20204 1.50443664498209 0.726401521902254 0.0172141852691512 -18.5435987579403 
+51.20202 1.87833612735511 0.878839724430259 0.615789300260184 -9.77680042705622 
+51.19192 0.667714071655663 0.726401521902254 0.252660656442094 6.50123035216701 
+51.1919 1.87833612735511 0.689093163580325 0.0281406659518401 -19.8150636128288 
+51.15152 0.969994394459898 0.689093163580325 0.0172141852691512 -16.9055598775214 
+51.14142 0.969994394459898 0.994361455411101 0.556317094608746 -1.44018219921765 
+51.10102 0.969994394459898 0.934928861257384 0.552471411875974 -0.0402927503143502 
+51.10102 0.969994394459898 0.663241777189377 0.247153370361116 0.32101015644777 
+51.09092 0.969994394459898 0.878839724430259 0.192816420544494 -1.04242211867252 
+51.0909 0.969994394459898 0.663241777189377 0.0172141852691512 -19.5645916973819 
+51.00002 0.298769772835224 0.994361455411101 0.192816420544494 -7.94294798853379 
+50.95958 0.969994394459898 0.878839724430259 0.0172141852691512 -19.5645916973819 
+50.9495 0.969994394459898 0.689093163580325 0.0281406659518401 -19.8150636128288 
+50.9293 1.50888197827273 0.878839724430259 0.540182052131381 -8.0410369269574 
+50.899 1.87833612735511 0.689093163580325 0.0172141852691512 -8.0410369269574 
+50.89898 0.824020659786997 1.35206861900151 0.0172141852691512 4.55539893997333 
+50.86868 0.969994394459898 0.934928861257384 0.0172141852691512 -16.9055598775214 
+50.86866 0.969994394459898 0.994361455411101 0.556317094608746 0.024659249576402 
+50.8384 0.9197726092435 0.663241777189377 0.886880225173369 -7.90865106575744 
+50.82828 0.9197726092435 0.994361455411101 0.137133030019589 2.68384943373583 
+50.798 1.04216094107985 0.994361455411101 0.192816420544494 -1.04242211867252 
+50.74748 0.9197726092435 0.878839724430259 0.615789300260184 -1.04242211867252 
+50.74748 0.969994394459898 0.934928861257384 0.137133030019589 -19.5645916973819 
+50.69696 1.63547570739673 0.631988349291731 0.372611325780279 6.50123035216701 
+50.63638 0.969994394459898 0.439649485811644 0.886880225173369 -7.90865106575744 
+50.59594 1.04216094107985 0.994361455411101 0.192816420544494 -1.04242211867252 
+50.54546 1.11922012911252 0.994361455411101 0.966725785687364 -10.7175855323184 
+50.52524 1.04216094107985 0.244093502548179 0.379477521217817 -12.4371824194149 
+50.51516 0.824020659786997 0.934928861257384 0.137133030019589 -16.9055598775214 
+50.46464 1.87833612735511 0.994361455411101 0.137133030019589 2.68384943373583 
+50.46462 0.969994394459898 0.934928861257384 0.137133030019589 2.68384943373583 
+50.41414 0.969994394459898 0.934928861257384 0.192816420544494 -1.04242211867252 
+50.38384 1.59120533232109 0.878839724430259 0.615789300260184 0.32101015644777 
+50.38382 0.9197726092435 1.19513866742634 0.0281406659518401 0.024659249576402 
+50.35356 1.87833612735511 0.689093163580325 0.137133030019589 2.68384943373583 
+50.33334 1.89474025290342 0.689093163580325 0.247153370361116 0.32101015644777 
+50.25252 0.969994394459898 0.878839724430259 0.137133030019589 2.68384943373583 
+50.23232 0.667714071655663 0.726401521902254 0.540182052131381 -16.9055598775214 
+50.17172 1.12932672081683 1.99701326060059 0.192816420544494 2.68384943373583 
+50.1313 0.665364180615775 1.04019330943995 0.137133030019589 2.68384943373583 
+50.12122 1.87833612735511 0.689093163580325 0.379477521217817 3.22184189953639 
+50.1111 1.04216094107985 1.8371919183302 0.853153531970171 -8.0410369269574 
+50.0808 1.04216094107985 1.99701326060059 0.372611325780279 6.50123035216701 
+50.01012 0.969994394459898 0.878839724430259 0.615789300260184 0.32101015644777 
+50 0.665364180615775 1.04019330943995 0.137133030019589 -8.0410369269574 
+49.85858 0.665364180615775 1.04019330943995 0.0172141852691512 -7.90865106575744 
+49.70708 1.89474025290342 0.689093163580325 0.615789300260184 0.32101015644777 
+49.65656 0.969994394459898 0.663241777189377 0.247153370361116 -16.9055598775214 
+49.53538 1.12932672081683 1.99701326060059 0.372611325780279 -8.0410369269574 
+49.26262 0.665364180615775 1.04019330943995 0.0172141852691512 -16.9055598775214 
+48.43436 0.969994394459898 1.35206861900151 0.0172141852691512 -16.9055598775214 
+48.26262 1.87833612735511 0.689093163580325 0.0172141852691512 0.32101015644777 
+48.0303 1.87833612735511 0.689093163580325 0.0172141852691512 0.32101015644777 

@@ -1,0 +1,56 @@
+
+
+Echo State Network for financial timeseries prediction.
+
+esn.cpp outputs (high dimensional) reservoir states.
+svesn.pl uses linear svm for next direction supervised learning, using reservoir states as input.
+ga.pl optimizes hyperparams
+
+
+voting with top members of an evolved population helps a little:
+% head -13 results/ga_btcusd_hourly_wscale1 | cut -d' ' -f1 --complement | vote.pl --input=data/btcusd_hourly
+0.546146674953387
+0.550963331261653
+0.545835922933499
+0.54816656308266
+0.546612802983219
+0.545525170913611
+0.545680546923555
+0.544282162834058
+0.546457426973275
+0.547545059042884
+0.54319453076445
+0.545525170913611
+0.54397141081417
+Ensembled: 0.549564947172157
+
+-----------------
+
+Seems to work better with no bias
+(But need to not mix biased and unbiased versions for vote)
+
+% head -13 results/ga_btcusd_hourly_nobias | cut -d' ' -f1 --complement | vote.pl --input=data/btcusd_hourly
+0.551584835301429
+0.549564947172157
+0.550963331261653
+0.549875699192045
+0.550341827221877
+0.541796146674953
+0.547700435052828
+0.547700435052828
+0.545059042883779
+0.548321939092604
+0.550807955251709
+0.545680546923555
+0.549098819142324
+Ensembled: 0.550497203231821
+
+
+----------------------------
+
+Good params very different without bias:
+bias:
+svesn.pl --wscale=0.3 --radius=1.1 --leakage=0.54 --log2c=-14 --input=data/btcusd_hourly
+no bias:
+svesn.pl --wscale=1.7 --radius=0.56 --leakage=0.31 --log2c=-6.4 --input=data/btcusd_hourly
+

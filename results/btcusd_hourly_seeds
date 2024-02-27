@@ -1,0 +1,2046 @@
+./esn --seed=542673 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.4351
+log2c= -22.00	rate=50.3263
+log2c= -21.00	rate=50.2952
+log2c= -20.00	rate=50.1398
+log2c= -19.00	rate=50.1088
+log2c= -18.00	rate=49.8446
+log2c= -17.00	rate=49.8912
+log2c= -16.00	rate=49.7359
+log2c= -15.00	rate=48.9434
+log2c= -14.00	rate=48.8036
+log2c= -13.00	rate=48.3375
+log2c= -12.00	rate=48.5084
+log2c= -11.00	rate=47.9024
+log2c= -10.00	rate=48.1355
+log2c=  -9.00	rate=48.6638
+log2c=  -8.00	rate=49.5028
+log2c=  -7.00	rate=50
+log2c=  -6.00	rate=50.839
+log2c=  -5.00	rate=51.8179
+log2c=  -4.00	rate=53.2629
+log2c=  -3.00	rate=54.3971
+log2c=  -2.00	rate=55.5625
+log2c=  -1.00	rate=57.225
+log2c=   0.00	rate=58.1417
+log2c=   1.00	rate=58.7166
+log2c=   2.00	rate=59.0429
+log2c=   3.00	rate=59.0895
+log2c=   4.00	rate=60.1305
+log2c=   5.00	rate=60.2704
+log2c=   6.00	rate=60.55
+log2c=   7.00	rate=60.55
+log2c=   8.00	rate=60.55
+log2c=   9.00	rate=60.55
+log2c=  10.00	rate=60.7986
+WARNING: maximum C reached.
+Best C = 1024  CV accuracy = 60.7986%
+./esn --seed=359498 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.6215
+log2c= -22.00	rate=50.3729
+log2c= -21.00	rate=50.404
+log2c= -20.00	rate=50
+log2c= -19.00	rate=49.9068
+log2c= -18.00	rate=49.394
+log2c= -17.00	rate=49.0833
+log2c= -16.00	rate=48.5084
+log2c= -15.00	rate=48.4152
+log2c= -14.00	rate=48.2598
+log2c= -13.00	rate=47.9024
+log2c= -12.00	rate=47.4829
+log2c= -11.00	rate=47.2809
+log2c= -10.00	rate=47.4829
+log2c=  -9.00	rate=47.7626
+log2c=  -8.00	rate=48.5239
+log2c=  -7.00	rate=49.4562
+log2c=  -6.00	rate=50.9167
+log2c=  -5.00	rate=52.1287
+log2c=  -4.00	rate=53.092
+log2c=  -3.00	rate=54.3039
+log2c=  -2.00	rate=56.0597
+log2c=  -1.00	rate=57.1784
+log2c=   0.00	rate=58.064
+log2c=   1.00	rate=58.1883
+log2c=   2.00	rate=59.5867
+log2c=   3.00	rate=59.5867
+log2c=   4.00	rate=59.9441
+log2c=   5.00	rate=61.0472
+log2c=   6.00	rate=61.0472
+log2c=   7.00	rate=61.0472
+log2c=   8.00	rate=61.0472
+log2c=   9.00	rate=61.0472
+log2c=  10.00	rate=61.0472
+Best C = 32  CV accuracy = 61.0472%
+./esn --seed=825441 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.839
+log2c= -22.00	rate=50.808
+log2c= -21.00	rate=50.7769
+log2c= -20.00	rate=50.5904
+log2c= -19.00	rate=50.3263
+log2c= -18.00	rate=49.9845
+log2c= -17.00	rate=49.5028
+log2c= -16.00	rate=49.596
+log2c= -15.00	rate=49.3319
+log2c= -14.00	rate=48.1666
+log2c= -13.00	rate=47.9801
+log2c= -12.00	rate=48.151
+log2c= -11.00	rate=48.3996
+log2c= -10.00	rate=48.5239
+log2c=  -9.00	rate=48.959
+log2c=  -8.00	rate=49.3474
+log2c=  -7.00	rate=49.798
+log2c=  -6.00	rate=50.4817
+log2c=  -5.00	rate=51.6781
+log2c=  -4.00	rate=52.9677
+log2c=  -3.00	rate=54.1641
+log2c=  -2.00	rate=55.6246
+log2c=  -1.00	rate=56.7278
+log2c=   0.00	rate=57.2094
+log2c=   1.00	rate=58.468
+log2c=   2.00	rate=59.1206
+log2c=   3.00	rate=59.2138
+log2c=   4.00	rate=59.6022
+log2c=   5.00	rate=59.7576
+log2c=   6.00	rate=60.2859
+log2c=   7.00	rate=60.4257
+log2c=   8.00	rate=60.4257
+log2c=   9.00	rate=60.4257
+log2c=  10.00	rate=60.4257
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.4257%
+./esn --seed=260149 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.1498
+log2c= -20.00	rate=51.1809
+log2c= -19.00	rate=50.839
+log2c= -18.00	rate=50.3884
+log2c= -17.00	rate=49.9223
+log2c= -16.00	rate=49.4251
+log2c= -15.00	rate=49.0211
+log2c= -14.00	rate=48.959
+log2c= -13.00	rate=49.0367
+log2c= -12.00	rate=48.555
+log2c= -11.00	rate=48.6482
+log2c= -10.00	rate=48.4773
+log2c=  -9.00	rate=49.3163
+log2c=  -8.00	rate=49.5028
+log2c=  -7.00	rate=49.9534
+log2c=  -6.00	rate=50.4972
+log2c=  -5.00	rate=51.2119
+log2c=  -4.00	rate=52.1287
+log2c=  -3.00	rate=52.6259
+log2c=  -2.00	rate=53.4493
+log2c=  -1.00	rate=54.0553
+log2c=   0.00	rate=54.6147
+log2c=   1.00	rate=55.7955
+log2c=   2.00	rate=56.4947
+log2c=   3.00	rate=56.6967
+log2c=   4.00	rate=57.3027
+log2c=   5.00	rate=57.3027
+log2c=   6.00	rate=57.3027
+log2c=   7.00	rate=57.3027
+log2c=   8.00	rate=57.3027
+log2c=   9.00	rate=57.3027
+Best C = 16  CV accuracy = 57.3027%
+./esn --seed=322872 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0721
+log2c= -22.00	rate=51.0721
+log2c= -21.00	rate=51.0721
+log2c= -20.00	rate=50.7924
+log2c= -19.00	rate=50.6526
+log2c= -18.00	rate=50.2641
+log2c= -17.00	rate=50
+log2c= -16.00	rate=49.7514
+log2c= -15.00	rate=49.2542
+log2c= -14.00	rate=49.1144
+log2c= -13.00	rate=48.0423
+log2c= -12.00	rate=48.0889
+log2c= -11.00	rate=48.151
+log2c= -10.00	rate=48.7881
+log2c=  -9.00	rate=49.0988
+log2c=  -8.00	rate=48.9901
+log2c=  -7.00	rate=49.5183
+log2c=  -6.00	rate=50.5904
+log2c=  -5.00	rate=51.4295
+log2c=  -4.00	rate=52.4239
+log2c=  -3.00	rate=53.4338
+log2c=  -2.00	rate=54.4904
+log2c=  -1.00	rate=55.0963
+log2c=   0.00	rate=55.8732
+log2c=   1.00	rate=57.1784
+log2c=   2.00	rate=57.5357
+log2c=   3.00	rate=58.0485
+log2c=   4.00	rate=58.2505
+log2c=   5.00	rate=58.2505
+log2c=   6.00	rate=58.2505
+log2c=   7.00	rate=58.6078
+log2c=   8.00	rate=58.9497
+log2c=   9.00	rate=58.9497
+log2c=  10.00	rate=58.9497
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 58.9497%
+./esn --seed=812652 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0876
+log2c= -20.00	rate=51.1032
+log2c= -19.00	rate=50.839
+log2c= -18.00	rate=50.4351
+log2c= -17.00	rate=49.8446
+log2c= -16.00	rate=49.394
+log2c= -15.00	rate=49.0833
+log2c= -14.00	rate=48.9745
+log2c= -13.00	rate=48.3996
+log2c= -12.00	rate=48.2598
+log2c= -11.00	rate=48.151
+log2c= -10.00	rate=48.8191
+log2c=  -9.00	rate=49.2542
+log2c=  -8.00	rate=49.8757
+log2c=  -7.00	rate=50.8856
+log2c=  -6.00	rate=50.9944
+log2c=  -5.00	rate=51.9888
+log2c=  -4.00	rate=52.9055
+log2c=  -3.00	rate=53.7756
+log2c=  -2.00	rate=54.941
+log2c=  -1.00	rate=56.3393
+log2c=   0.00	rate=56.9453
+log2c=   1.00	rate=57.3959
+log2c=   2.00	rate=58.0951
+log2c=   3.00	rate=58.1728
+log2c=   4.00	rate=58.1728
+log2c=   5.00	rate=58.1728
+log2c=   6.00	rate=58.1728
+log2c=   7.00	rate=58.1728
+log2c=   8.00	rate=58.1728
+Best C = 8  CV accuracy = 58.1728%
+./esn --seed=49666 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.9012
+log2c= -22.00	rate=50.8701
+log2c= -21.00	rate=50.5438
+log2c= -20.00	rate=50.3729
+log2c= -19.00	rate=50.1398
+log2c= -18.00	rate=50.1243
+log2c= -17.00	rate=49.8291
+log2c= -16.00	rate=49.2542
+log2c= -15.00	rate=48.7725
+log2c= -14.00	rate=48.0733
+log2c= -13.00	rate=47.8092
+log2c= -12.00	rate=48.0578
+log2c= -11.00	rate=48.2598
+log2c= -10.00	rate=48.2753
+log2c=  -9.00	rate=48.1821
+log2c=  -8.00	rate=48.8347
+log2c=  -7.00	rate=49.5339
+log2c=  -6.00	rate=50.7147
+log2c=  -5.00	rate=51.7713
+log2c=  -4.00	rate=52.8745
+log2c=  -3.00	rate=54.2573
+log2c=  -2.00	rate=55.4692
+log2c=  -1.00	rate=56.3549
+log2c=   0.00	rate=57.5668
+log2c=   1.00	rate=58.8254
+log2c=   2.00	rate=59.1206
+log2c=   3.00	rate=59.6489
+log2c=   4.00	rate=60.317
+log2c=   5.00	rate=60.317
+log2c=   6.00	rate=60.317
+log2c=   7.00	rate=60.317
+log2c=   8.00	rate=60.317
+log2c=   9.00	rate=60.317
+Best C = 16  CV accuracy = 60.317%
+./esn --seed=277689 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0721
+log2c= -20.00	rate=51.0721
+log2c= -19.00	rate=50.6681
+log2c= -18.00	rate=50.0777
+log2c= -17.00	rate=49.596
+log2c= -16.00	rate=48.8968
+log2c= -15.00	rate=48.9745
+log2c= -14.00	rate=49.0522
+log2c= -13.00	rate=48.4152
+log2c= -12.00	rate=48.1666
+log2c= -11.00	rate=48.3686
+log2c= -10.00	rate=48.1355
+log2c=  -9.00	rate=48.4773
+log2c=  -8.00	rate=49.798
+log2c=  -7.00	rate=50.0311
+log2c=  -6.00	rate=50.9633
+log2c=  -5.00	rate=52.6414
+log2c=  -4.00	rate=53.6513
+log2c=  -3.00	rate=54.5214
+log2c=  -2.00	rate=55.4537
+log2c=  -1.00	rate=56.215
+log2c=   0.00	rate=56.9608
+log2c=   1.00	rate=57.7999
+log2c=   2.00	rate=58.3437
+log2c=   3.00	rate=58.7787
+log2c=   4.00	rate=59.2138
+log2c=   5.00	rate=59.2138
+log2c=   6.00	rate=59.5867
+log2c=   7.00	rate=59.5867
+log2c=   8.00	rate=59.5867
+log2c=   9.00	rate=59.5867
+log2c=  10.00	rate=59.5867
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.5867%
+./esn --seed=220176 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0721
+log2c= -20.00	rate=51.041
+log2c= -19.00	rate=51.0876
+log2c= -18.00	rate=50.6215
+log2c= -17.00	rate=50.4817
+log2c= -16.00	rate=49.9845
+log2c= -15.00	rate=49.5183
+log2c= -14.00	rate=49.4562
+log2c= -13.00	rate=49.5494
+log2c= -12.00	rate=49.4562
+log2c= -11.00	rate=48.6948
+log2c= -10.00	rate=49.4251
+log2c=  -9.00	rate=49.394
+log2c=  -8.00	rate=49.6737
+log2c=  -7.00	rate=49.9845
+log2c=  -6.00	rate=50.606
+log2c=  -5.00	rate=51.849
+log2c=  -4.00	rate=53.0609
+log2c=  -3.00	rate=53.8844
+log2c=  -2.00	rate=54.7856
+log2c=  -1.00	rate=55.8266
+log2c=   0.00	rate=56.6656
+log2c=   1.00	rate=57.0851
+log2c=   2.00	rate=58.0174
+log2c=   3.00	rate=58.9186
+log2c=   4.00	rate=59.0429
+log2c=   5.00	rate=59.2604
+log2c=   6.00	rate=59.2604
+log2c=   7.00	rate=59.2604
+log2c=   8.00	rate=59.2604
+log2c=   9.00	rate=59.2604
+log2c=  10.00	rate=59.2604
+Best C = 32  CV accuracy = 59.2604%
+./esn --seed=323209 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.9789
+log2c= -22.00	rate=51.0099
+log2c= -21.00	rate=50.7458
+log2c= -20.00	rate=50.5594
+log2c= -19.00	rate=50.4817
+log2c= -18.00	rate=49.9689
+log2c= -17.00	rate=50.3263
+log2c= -16.00	rate=49.9689
+log2c= -15.00	rate=49.5805
+log2c= -14.00	rate=48.6948
+log2c= -13.00	rate=47.918
+log2c= -12.00	rate=47.6694
+log2c= -11.00	rate=47.4518
+log2c= -10.00	rate=47.8713
+log2c=  -9.00	rate=48.2753
+log2c=  -8.00	rate=48.8968
+log2c=  -7.00	rate=49.7048
+log2c=  -6.00	rate=51.3207
+log2c=  -5.00	rate=52.0199
+log2c=  -4.00	rate=52.9832
+log2c=  -3.00	rate=53.7135
+log2c=  -2.00	rate=54.6457
+log2c=  -1.00	rate=55.2206
+log2c=   0.00	rate=56.3238
+log2c=   1.00	rate=57.1473
+log2c=   2.00	rate=58.7011
+log2c=   3.00	rate=58.7011
+log2c=   4.00	rate=59.0584
+log2c=   5.00	rate=59.6022
+log2c=   6.00	rate=59.6022
+log2c=   7.00	rate=59.6022
+log2c=   8.00	rate=59.6022
+log2c=   9.00	rate=59.6022
+log2c=  10.00	rate=59.6022
+Best C = 32  CV accuracy = 59.6022%
+./esn --seed=833544 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.9845
+log2c= -22.00	rate=49.9689
+log2c= -21.00	rate=50
+log2c= -20.00	rate=50.1243
+log2c= -19.00	rate=49.8757
+log2c= -18.00	rate=49.3474
+log2c= -17.00	rate=49.2697
+log2c= -16.00	rate=49.2387
+log2c= -15.00	rate=49.4562
+log2c= -14.00	rate=49.0677
+log2c= -13.00	rate=48.3064
+log2c= -12.00	rate=48.1821
+log2c= -11.00	rate=47.9646
+log2c= -10.00	rate=48.0267
+log2c=  -9.00	rate=48.3219
+log2c=  -8.00	rate=49.0367
+log2c=  -7.00	rate=49.9534
+log2c=  -6.00	rate=51.1032
+log2c=  -5.00	rate=52.1597
+log2c=  -4.00	rate=53.4804
+log2c=  -3.00	rate=54.4127
+log2c=  -2.00	rate=56.0752
+log2c=  -1.00	rate=57.1473
+log2c=   0.00	rate=58.266
+log2c=   1.00	rate=58.8875
+log2c=   2.00	rate=59.1361
+log2c=   3.00	rate=59.5867
+log2c=   4.00	rate=60.348
+log2c=   5.00	rate=61.0938
+log2c=   6.00	rate=61.0938
+log2c=   7.00	rate=61.6221
+log2c=   8.00	rate=61.6221
+log2c=   9.00	rate=61.6221
+log2c=  10.00	rate=61.6221
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 61.6221%
+./esn --seed=406035 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.6992
+log2c= -22.00	rate=50.6215
+log2c= -21.00	rate=50.6681
+log2c= -20.00	rate=50.5904
+log2c= -19.00	rate=50.0622
+log2c= -18.00	rate=49.4717
+log2c= -17.00	rate=49.1299
+log2c= -16.00	rate=48.8036
+log2c= -15.00	rate=48.3219
+log2c= -14.00	rate=48.2443
+log2c= -13.00	rate=48.3219
+log2c= -12.00	rate=47.8713
+log2c= -11.00	rate=47.918
+log2c= -10.00	rate=47.4518
+log2c=  -9.00	rate=48.1044
+log2c=  -8.00	rate=48.6948
+log2c=  -7.00	rate=49.7359
+log2c=  -6.00	rate=50.3574
+log2c=  -5.00	rate=51.5848
+log2c=  -4.00	rate=52.8589
+log2c=  -3.00	rate=54.2884
+log2c=  -2.00	rate=55.2983
+log2c=  -1.00	rate=56.6501
+log2c=   0.00	rate=57.3804
+log2c=   1.00	rate=58.2971
+log2c=   2.00	rate=59.509
+log2c=   3.00	rate=60.0218
+log2c=   4.00	rate=60.6122
+log2c=   5.00	rate=60.8763
+log2c=   6.00	rate=61.156
+log2c=   7.00	rate=61.156
+log2c=   8.00	rate=61.156
+log2c=   9.00	rate=61.156
+log2c=  10.00	rate=61.156
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 61.156%
+./esn --seed=503547 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.7359
+log2c= -22.00	rate=50.1554
+log2c= -21.00	rate=50.0155
+log2c= -20.00	rate=49.6116
+log2c= -19.00	rate=49.363
+log2c= -18.00	rate=49.4873
+log2c= -17.00	rate=49.8291
+log2c= -16.00	rate=49.2697
+log2c= -15.00	rate=49.0367
+log2c= -14.00	rate=48.4618
+log2c= -13.00	rate=48.2132
+log2c= -12.00	rate=48.3064
+log2c= -11.00	rate=48.5239
+log2c= -10.00	rate=48.7259
+log2c=  -9.00	rate=48.8813
+log2c=  -8.00	rate=49.4096
+log2c=  -7.00	rate=50.1865
+log2c=  -6.00	rate=51.2275
+log2c=  -5.00	rate=51.7247
+log2c=  -4.00	rate=52.8278
+log2c=  -3.00	rate=53.4804
+log2c=  -2.00	rate=54.4438
+log2c=  -1.00	rate=55.0963
+log2c=   0.00	rate=55.8421
+log2c=   1.00	rate=56.7899
+log2c=   2.00	rate=57.1939
+log2c=   3.00	rate=57.5047
+log2c=   4.00	rate=57.5047
+log2c=   5.00	rate=58.1106
+log2c=   6.00	rate=58.6544
+log2c=   7.00	rate=58.6544
+log2c=   8.00	rate=58.6544
+log2c=   9.00	rate=58.6544
+log2c=  10.00	rate=59.3226
+WARNING: maximum C reached.
+Best C = 1024  CV accuracy = 59.3226%
+./esn --seed=239282 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.6837
+log2c= -22.00	rate=50.6681
+log2c= -21.00	rate=50.5594
+log2c= -20.00	rate=50.6837
+log2c= -19.00	rate=50.3729
+log2c= -18.00	rate=50.1243
+log2c= -17.00	rate=49.0833
+log2c= -16.00	rate=48.5239
+log2c= -15.00	rate=48.3219
+log2c= -14.00	rate=48.4307
+log2c= -13.00	rate=48.4929
+log2c= -12.00	rate=48.2287
+log2c= -11.00	rate=47.6227
+log2c= -10.00	rate=48.0423
+log2c=  -9.00	rate=48.353
+log2c=  -8.00	rate=48.7725
+log2c=  -7.00	rate=49.9534
+log2c=  -6.00	rate=51.1187
+log2c=  -5.00	rate=52.3462
+log2c=  -4.00	rate=53.5581
+log2c=  -3.00	rate=54.8477
+log2c=  -2.00	rate=56.3238
+log2c=  -1.00	rate=57.6445
+log2c=   0.00	rate=58.7321
+log2c=   1.00	rate=58.8098
+log2c=   2.00	rate=60.0373
+log2c=   3.00	rate=60.2704
+log2c=   4.00	rate=60.7676
+log2c=   5.00	rate=61.0628
+log2c=   6.00	rate=61.2492
+log2c=   7.00	rate=61.2492
+log2c=   8.00	rate=61.2492
+log2c=   9.00	rate=61.2492
+log2c=  10.00	rate=61.2492
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 61.2492%
+./esn --seed=411922 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0255
+log2c= -22.00	rate=51.0255
+log2c= -21.00	rate=50.8856
+log2c= -20.00	rate=50.6215
+log2c= -19.00	rate=50.1088
+log2c= -18.00	rate=50.1709
+log2c= -17.00	rate=50.0932
+log2c= -16.00	rate=49.798
+log2c= -15.00	rate=49.394
+log2c= -14.00	rate=49.394
+log2c= -13.00	rate=49.0056
+log2c= -12.00	rate=48.7881
+log2c= -11.00	rate=48.757
+log2c= -10.00	rate=49.1765
+log2c=  -9.00	rate=49.5494
+log2c=  -8.00	rate=50.2486
+log2c=  -7.00	rate=50.6837
+log2c=  -6.00	rate=51.5227
+log2c=  -5.00	rate=52.1908
+log2c=  -4.00	rate=53.2163
+log2c=  -3.00	rate=54.2728
+log2c=  -2.00	rate=55.1274
+log2c=  -1.00	rate=56.3083
+log2c=   0.00	rate=57.6911
+log2c=   1.00	rate=58.468
+log2c=   2.00	rate=59.2604
+log2c=   3.00	rate=59.3226
+log2c=   4.00	rate=59.5556
+log2c=   5.00	rate=60.8763
+log2c=   6.00	rate=60.9851
+log2c=   7.00	rate=60.9851
+log2c=   8.00	rate=61.2026
+log2c=   9.00	rate=61.358
+log2c=  10.00	rate=61.358
+WARNING: maximum C reached.
+Best C = 512  CV accuracy = 61.358%
+./esn --seed=881612 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.5649
+log2c= -22.00	rate=49.4562
+log2c= -21.00	rate=49.4717
+log2c= -20.00	rate=49.394
+log2c= -19.00	rate=48.9901
+log2c= -18.00	rate=48.9745
+log2c= -17.00	rate=49.0211
+log2c= -16.00	rate=49.4873
+log2c= -15.00	rate=49.3163
+log2c= -14.00	rate=48.8347
+log2c= -13.00	rate=48.6793
+log2c= -12.00	rate=48.7104
+log2c= -11.00	rate=48.4773
+log2c= -10.00	rate=48.353
+log2c=  -9.00	rate=48.757
+log2c=  -8.00	rate=49.5028
+log2c=  -7.00	rate=50
+log2c=  -6.00	rate=50.5283
+log2c=  -5.00	rate=51.4139
+log2c=  -4.00	rate=52.1753
+log2c=  -3.00	rate=53.4804
+log2c=  -2.00	rate=54.3816
+log2c=  -1.00	rate=55.4226
+log2c=   0.00	rate=56.7278
+log2c=   1.00	rate=58.0329
+log2c=   2.00	rate=58.4991
+log2c=   3.00	rate=59.1206
+log2c=   4.00	rate=59.6022
+log2c=   5.00	rate=60.2237
+log2c=   6.00	rate=60.2237
+log2c=   7.00	rate=60.2237
+log2c=   8.00	rate=60.2237
+log2c=   9.00	rate=60.2237
+log2c=  10.00	rate=60.2237
+Best C = 32  CV accuracy = 60.2237%
+./esn --seed=820769 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0721
+log2c= -22.00	rate=51.0566
+log2c= -21.00	rate=51.1032
+log2c= -20.00	rate=50.9167
+log2c= -19.00	rate=50.7924
+log2c= -18.00	rate=50.3108
+log2c= -17.00	rate=50.1243
+log2c= -16.00	rate=49.6582
+log2c= -15.00	rate=49.7048
+log2c= -14.00	rate=49.4717
+log2c= -13.00	rate=49.1144
+log2c= -12.00	rate=48.757
+log2c= -11.00	rate=48.6793
+log2c= -10.00	rate=48.4618
+log2c=  -9.00	rate=49.192
+log2c=  -8.00	rate=49.1454
+log2c=  -7.00	rate=49.8912
+log2c=  -6.00	rate=50.9012
+log2c=  -5.00	rate=52.0976
+log2c=  -4.00	rate=53.1075
+log2c=  -3.00	rate=54.133
+log2c=  -2.00	rate=55.4071
+log2c=  -1.00	rate=56.7433
+log2c=   0.00	rate=57.2871
+log2c=   1.00	rate=57.9708
+log2c=   2.00	rate=59.0273
+log2c=   3.00	rate=59.2449
+log2c=   4.00	rate=59.711
+log2c=   5.00	rate=59.6955
+log2c=   6.00	rate=59.6955
+log2c=   7.00	rate=59.6955
+log2c=   8.00	rate=59.6955
+log2c=   9.00	rate=59.6955
+log2c=  10.00	rate=59.6955
+Best C = 16  CV accuracy = 59.711%
+./esn --seed=289408 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.1653
+log2c= -22.00	rate=51.1498
+log2c= -21.00	rate=51.2119
+log2c= -20.00	rate=51.0099
+log2c= -19.00	rate=50.6215
+log2c= -18.00	rate=49.8291
+log2c= -17.00	rate=49.2853
+log2c= -16.00	rate=48.3219
+log2c= -15.00	rate=48.3841
+log2c= -14.00	rate=48.0423
+log2c= -13.00	rate=47.8869
+log2c= -12.00	rate=47.6694
+log2c= -11.00	rate=47.8092
+log2c= -10.00	rate=48.2598
+log2c=  -9.00	rate=48.7881
+log2c=  -8.00	rate=49.2542
+log2c=  -7.00	rate=50.2641
+log2c=  -6.00	rate=51.2896
+log2c=  -5.00	rate=52.1597
+log2c=  -4.00	rate=53.4493
+log2c=  -3.00	rate=54.6768
+log2c=  -2.00	rate=56.5103
+log2c=  -1.00	rate=57.3182
+log2c=   0.00	rate=58.0796
+log2c=   1.00	rate=58.7011
+log2c=   2.00	rate=58.8875
+log2c=   3.00	rate=59.5556
+log2c=   4.00	rate=60.1616
+log2c=   5.00	rate=60.8608
+log2c=   6.00	rate=60.8608
+log2c=   7.00	rate=61.0472
+log2c=   8.00	rate=61.0472
+log2c=   9.00	rate=61.0472
+log2c=  10.00	rate=61.0472
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 61.0472%
+./esn --seed=432332 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0721
+log2c= -21.00	rate=51.0876
+log2c= -20.00	rate=50.9012
+log2c= -19.00	rate=50.8701
+log2c= -18.00	rate=50.1865
+log2c= -17.00	rate=49.4562
+log2c= -16.00	rate=49.5028
+log2c= -15.00	rate=48.8968
+log2c= -14.00	rate=49.0988
+log2c= -13.00	rate=48.5705
+log2c= -12.00	rate=48.8813
+log2c= -11.00	rate=48.4152
+log2c= -10.00	rate=48.151
+log2c=  -9.00	rate=47.9801
+log2c=  -8.00	rate=48.5084
+log2c=  -7.00	rate=49.4717
+log2c=  -6.00	rate=50.6992
+log2c=  -5.00	rate=51.7091
+log2c=  -4.00	rate=52.8434
+log2c=  -3.00	rate=53.931
+log2c=  -2.00	rate=54.335
+log2c=  -1.00	rate=55.5935
+log2c=   0.00	rate=56.386
+log2c=   1.00	rate=56.7899
+log2c=   2.00	rate=57.9086
+log2c=   3.00	rate=58.2815
+log2c=   4.00	rate=58.2815
+log2c=   5.00	rate=58.2815
+log2c=   6.00	rate=58.2815
+log2c=   7.00	rate=58.4058
+log2c=   8.00	rate=58.4058
+log2c=   9.00	rate=58.4058
+log2c=  10.00	rate=58.4058
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 58.4058%
+./esn --seed=819406 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.7359
+log2c= -22.00	rate=49.7048
+log2c= -21.00	rate=49.7359
+log2c= -20.00	rate=49.5649
+log2c= -19.00	rate=49.3008
+log2c= -18.00	rate=49.1299
+log2c= -17.00	rate=49.3163
+log2c= -16.00	rate=48.7259
+log2c= -15.00	rate=48.0112
+log2c= -14.00	rate=47.0634
+log2c= -13.00	rate=47.1877
+log2c= -12.00	rate=46.9857
+log2c= -11.00	rate=47.0323
+log2c= -10.00	rate=47.8558
+log2c=  -9.00	rate=48.1044
+log2c=  -8.00	rate=48.9279
+log2c=  -7.00	rate=49.5183
+log2c=  -6.00	rate=50.5594
+log2c=  -5.00	rate=51.9577
+log2c=  -4.00	rate=52.5948
+log2c=  -3.00	rate=53.8067
+log2c=  -2.00	rate=55.6712
+log2c=  -1.00	rate=56.6967
+log2c=   0.00	rate=57.9086
+log2c=   1.00	rate=58.5768
+log2c=   2.00	rate=59.3381
+log2c=   3.00	rate=59.9596
+log2c=   4.00	rate=60.4723
+log2c=   5.00	rate=61.4357
+log2c=   6.00	rate=61.5134
+log2c=   7.00	rate=61.5134
+log2c=   8.00	rate=61.5134
+log2c=   9.00	rate=61.5134
+log2c=  10.00	rate=61.5134
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 61.5134%
+./esn --seed=112776 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.7303
+log2c= -22.00	rate=50.5438
+log2c= -21.00	rate=50.4817
+log2c= -20.00	rate=50.3418
+log2c= -19.00	rate=50.202
+log2c= -18.00	rate=50.1243
+log2c= -17.00	rate=49.8757
+log2c= -16.00	rate=49.5028
+log2c= -15.00	rate=49.2542
+log2c= -14.00	rate=49.0367
+log2c= -13.00	rate=48.6482
+log2c= -12.00	rate=48.1821
+log2c= -11.00	rate=47.6072
+log2c= -10.00	rate=47.5451
+log2c=  -9.00	rate=47.949
+log2c=  -8.00	rate=48.555
+log2c=  -7.00	rate=49.4873
+log2c=  -6.00	rate=50.7303
+log2c=  -5.00	rate=52.1287
+log2c=  -4.00	rate=52.8745
+log2c=  -3.00	rate=54.6924
+log2c=  -2.00	rate=56.1374
+log2c=  -1.00	rate=57.5047
+log2c=   0.00	rate=57.8154
+log2c=   1.00	rate=58.8875
+log2c=   2.00	rate=59.0584
+log2c=   3.00	rate=60.0994
+log2c=   4.00	rate=60.6122
+log2c=   5.00	rate=60.6122
+log2c=   6.00	rate=60.6122
+log2c=   7.00	rate=60.6122
+log2c=   8.00	rate=60.6122
+log2c=   9.00	rate=60.6122
+Best C = 16  CV accuracy = 60.6122%
+./esn --seed=264034 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0255
+log2c= -20.00	rate=50.9012
+log2c= -19.00	rate=50.637
+log2c= -18.00	rate=50.2952
+log2c= -17.00	rate=49.8135
+log2c= -16.00	rate=49.4251
+log2c= -15.00	rate=49.3319
+log2c= -14.00	rate=48.8658
+log2c= -13.00	rate=48.353
+log2c= -12.00	rate=48.3064
+log2c= -11.00	rate=48.3686
+log2c= -10.00	rate=48.4152
+log2c=  -9.00	rate=48.151
+log2c=  -8.00	rate=48.3996
+log2c=  -7.00	rate=49.3785
+log2c=  -6.00	rate=50.0155
+log2c=  -5.00	rate=51.2585
+log2c=  -4.00	rate=51.9577
+log2c=  -3.00	rate=52.5792
+log2c=  -2.00	rate=53.8067
+log2c=  -1.00	rate=54.6924
+log2c=   0.00	rate=55.6246
+log2c=   1.00	rate=56.215
+log2c=   2.00	rate=56.8676
+log2c=   3.00	rate=57.427
+log2c=   4.00	rate=57.831
+log2c=   5.00	rate=58.5301
+log2c=   6.00	rate=59.9596
+log2c=   7.00	rate=59.9596
+log2c=   8.00	rate=59.9596
+log2c=   9.00	rate=59.9596
+log2c=  10.00	rate=59.9596
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.9596%
+./esn --seed=362371 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0876
+log2c= -20.00	rate=51.0876
+log2c= -19.00	rate=51.2585
+log2c= -18.00	rate=51.0721
+log2c= -17.00	rate=51.041
+log2c= -16.00	rate=50.8235
+log2c= -15.00	rate=50.2331
+log2c= -14.00	rate=49.9845
+log2c= -13.00	rate=49.7825
+log2c= -12.00	rate=49.6271
+log2c= -11.00	rate=49.1454
+log2c= -10.00	rate=49.0367
+log2c=  -9.00	rate=48.9901
+log2c=  -8.00	rate=49.363
+log2c=  -7.00	rate=50.3263
+log2c=  -6.00	rate=51.0721
+log2c=  -5.00	rate=51.88
+log2c=  -4.00	rate=52.6725
+log2c=  -3.00	rate=53.0764
+log2c=  -2.00	rate=53.8222
+log2c=  -1.00	rate=55.0031
+log2c=   0.00	rate=55.3294
+log2c=   1.00	rate=55.7644
+log2c=   2.00	rate=56.7589
+log2c=   3.00	rate=57.0851
+log2c=   4.00	rate=57.1473
+log2c=   5.00	rate=57.225
+log2c=   6.00	rate=57.427
+log2c=   7.00	rate=57.427
+log2c=   8.00	rate=57.7999
+log2c=   9.00	rate=57.7999
+log2c=  10.00	rate=57.7999
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 57.7999%
+./esn --seed=504918 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0876
+log2c= -20.00	rate=51.0876
+log2c= -19.00	rate=51.041
+log2c= -18.00	rate=50.9167
+log2c= -17.00	rate=50.5283
+log2c= -16.00	rate=49.4873
+log2c= -15.00	rate=49.1765
+log2c= -14.00	rate=48.9434
+log2c= -13.00	rate=48.5861
+log2c= -12.00	rate=48.3686
+log2c= -11.00	rate=48.3375
+log2c= -10.00	rate=48.3375
+log2c=  -9.00	rate=48.5705
+log2c=  -8.00	rate=48.8813
+log2c=  -7.00	rate=49.7514
+log2c=  -6.00	rate=50.3108
+log2c=  -5.00	rate=51.4761
+log2c=  -4.00	rate=51.9267
+log2c=  -3.00	rate=52.6414
+log2c=  -2.00	rate=53.2318
+log2c=  -1.00	rate=53.6979
+log2c=   0.00	rate=54.2728
+log2c=   1.00	rate=54.5836
+log2c=   2.00	rate=55.1429
+log2c=   3.00	rate=55.2362
+log2c=   4.00	rate=55.2362
+log2c=   5.00	rate=55.982
+log2c=   6.00	rate=55.982
+log2c=   7.00	rate=55.982
+log2c=   8.00	rate=55.982
+log2c=   9.00	rate=55.982
+log2c=  10.00	rate=55.982
+Best C = 32  CV accuracy = 55.982%
+./esn --seed=561697 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.7769
+log2c= -22.00	rate=50.7769
+log2c= -21.00	rate=50.6526
+log2c= -20.00	rate=50.5438
+log2c= -19.00	rate=50.3263
+log2c= -18.00	rate=49.9223
+log2c= -17.00	rate=49.3008
+log2c= -16.00	rate=49.2231
+log2c= -15.00	rate=48.7725
+log2c= -14.00	rate=48.151
+log2c= -13.00	rate=48.4929
+log2c= -12.00	rate=48.353
+log2c= -11.00	rate=48.6638
+log2c= -10.00	rate=48.4929
+log2c=  -9.00	rate=48.9434
+log2c=  -8.00	rate=49.0211
+log2c=  -7.00	rate=49.4096
+log2c=  -6.00	rate=50.1709
+log2c=  -5.00	rate=51.3052
+log2c=  -4.00	rate=52.5637
+log2c=  -3.00	rate=53.7756
+log2c=  -2.00	rate=54.9254
+log2c=  -1.00	rate=55.9354
+log2c=   0.00	rate=57.1318
+log2c=   1.00	rate=57.9863
+log2c=   2.00	rate=58.6389
+log2c=   3.00	rate=58.7787
+log2c=   4.00	rate=59.8353
+log2c=   5.00	rate=59.8353
+log2c=   6.00	rate=60.3325
+log2c=   7.00	rate=60.6588
+log2c=   8.00	rate=60.6588
+log2c=   9.00	rate=60.6588
+log2c=  10.00	rate=60.6588
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.6588%
+./esn --seed=812184 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.3263
+log2c= -22.00	rate=50.3263
+log2c= -21.00	rate=50.3574
+log2c= -20.00	rate=50.2486
+log2c= -19.00	rate=50.4195
+log2c= -18.00	rate=50.3263
+log2c= -17.00	rate=49.8757
+log2c= -16.00	rate=49.3163
+log2c= -15.00	rate=49.0211
+log2c= -14.00	rate=48.5395
+log2c= -13.00	rate=48.3219
+log2c= -12.00	rate=48.2443
+log2c= -11.00	rate=48.3996
+log2c= -10.00	rate=48.4152
+log2c=  -9.00	rate=48.6793
+log2c=  -8.00	rate=49.0056
+log2c=  -7.00	rate=49.8291
+log2c=  -6.00	rate=50.8546
+log2c=  -5.00	rate=51.9577
+log2c=  -4.00	rate=53.1541
+log2c=  -3.00	rate=54.6924
+log2c=  -2.00	rate=56.0286
+log2c=  -1.00	rate=57.4114
+log2c=   0.00	rate=58.1106
+log2c=   1.00	rate=58.9652
+log2c=   2.00	rate=59.8042
+log2c=   3.00	rate=59.9907
+log2c=   4.00	rate=60.7209
+log2c=   5.00	rate=61.2337
+log2c=   6.00	rate=61.2337
+log2c=   7.00	rate=61.2337
+log2c=   8.00	rate=61.2337
+log2c=   9.00	rate=61.2337
+log2c=  10.00	rate=61.2337
+Best C = 32  CV accuracy = 61.2337%
+./esn --seed=708913 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0876
+log2c= -20.00	rate=51.0876
+log2c= -19.00	rate=51.0876
+log2c= -18.00	rate=51.0566
+log2c= -17.00	rate=50.3574
+log2c= -16.00	rate=49.6426
+log2c= -15.00	rate=49.0211
+log2c= -14.00	rate=48.6016
+log2c= -13.00	rate=48.8658
+log2c= -12.00	rate=48.5705
+log2c= -11.00	rate=48.2909
+log2c= -10.00	rate=47.8713
+log2c=  -9.00	rate=48.2287
+log2c=  -8.00	rate=48.3219
+log2c=  -7.00	rate=49.1454
+log2c=  -6.00	rate=49.7514
+log2c=  -5.00	rate=50.637
+log2c=  -4.00	rate=51.6936
+log2c=  -3.00	rate=52.7191
+log2c=  -2.00	rate=53.6824
+log2c=  -1.00	rate=54.6924
+log2c=   0.00	rate=54.8943
+log2c=   1.00	rate=55.4226
+log2c=   2.00	rate=55.4226
+log2c=   3.00	rate=55.578
+log2c=   4.00	rate=55.982
+log2c=   5.00	rate=55.982
+log2c=   6.00	rate=55.982
+log2c=   7.00	rate=55.982
+log2c=   8.00	rate=55.982
+log2c=   9.00	rate=55.982
+Best C = 16  CV accuracy = 55.982%
+./esn --seed=225122 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.2486
+log2c= -22.00	rate=50.1865
+log2c= -21.00	rate=50.1865
+log2c= -20.00	rate=50.0466
+log2c= -19.00	rate=49.9845
+log2c= -18.00	rate=49.7514
+log2c= -17.00	rate=49.7359
+log2c= -16.00	rate=49.5028
+log2c= -15.00	rate=48.7881
+log2c= -14.00	rate=48.2443
+log2c= -13.00	rate=47.8558
+log2c= -12.00	rate=47.8247
+log2c= -11.00	rate=47.9024
+log2c= -10.00	rate=48.1666
+log2c=  -9.00	rate=48.8347
+log2c=  -8.00	rate=49.3163
+log2c=  -7.00	rate=49.9845
+log2c=  -6.00	rate=51.1498
+log2c=  -5.00	rate=52.4083
+log2c=  -4.00	rate=53.2318
+log2c=  -3.00	rate=54.6613
+log2c=  -2.00	rate=55.6712
+log2c=  -1.00	rate=56.5413
+log2c=   0.00	rate=57.2871
+log2c=   1.00	rate=58.0174
+log2c=   2.00	rate=58.0174
+log2c=   3.00	rate=58.9186
+log2c=   4.00	rate=59.6955
+log2c=   5.00	rate=59.6955
+log2c=   6.00	rate=59.6799
+log2c=   7.00	rate=59.6799
+log2c=   8.00	rate=59.6799
+log2c=   9.00	rate=59.6799
+log2c=  10.00	rate=59.6799
+WARNING: maximum C reached.
+Best C = 16  CV accuracy = 59.6955%
+./esn --seed=770615 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0255
+log2c= -22.00	rate=50.9944
+log2c= -21.00	rate=50.9323
+log2c= -20.00	rate=50.5904
+log2c= -19.00	rate=50.5438
+log2c= -18.00	rate=49.9378
+log2c= -17.00	rate=49.4717
+log2c= -16.00	rate=49.3785
+log2c= -15.00	rate=49.1765
+log2c= -14.00	rate=48.8502
+log2c= -13.00	rate=47.8713
+log2c= -12.00	rate=47.6849
+log2c= -11.00	rate=47.7937
+log2c= -10.00	rate=47.9956
+log2c=  -9.00	rate=48.2287
+log2c=  -8.00	rate=49.2697
+log2c=  -7.00	rate=50.4195
+log2c=  -6.00	rate=51.0099
+log2c=  -5.00	rate=52.5482
+log2c=  -4.00	rate=53.4027
+log2c=  -3.00	rate=54.0864
+log2c=  -2.00	rate=54.972
+log2c=  -1.00	rate=56.2461
+log2c=   0.00	rate=57.023
+log2c=   1.00	rate=57.4891
+log2c=   2.00	rate=57.7533
+log2c=   3.00	rate=58.0019
+log2c=   4.00	rate=59.3226
+log2c=   5.00	rate=59.5867
+log2c=   6.00	rate=59.5867
+log2c=   7.00	rate=59.5867
+log2c=   8.00	rate=59.5867
+log2c=   9.00	rate=59.5867
+log2c=  10.00	rate=59.5867
+Best C = 32  CV accuracy = 59.5867%
+./esn --seed=17952 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.7458
+log2c= -22.00	rate=50.7303
+log2c= -21.00	rate=50.6526
+log2c= -20.00	rate=50.3729
+log2c= -19.00	rate=49.9845
+log2c= -18.00	rate=49.394
+log2c= -17.00	rate=48.7881
+log2c= -16.00	rate=48.353
+log2c= -15.00	rate=48.1355
+log2c= -14.00	rate=48.3841
+log2c= -13.00	rate=48.3219
+log2c= -12.00	rate=48.4462
+log2c= -11.00	rate=48.4618
+log2c= -10.00	rate=48.3064
+log2c=  -9.00	rate=48.4929
+log2c=  -8.00	rate=48.9745
+log2c=  -7.00	rate=50.2331
+log2c=  -6.00	rate=50.9167
+log2c=  -5.00	rate=51.8956
+log2c=  -4.00	rate=53.0764
+log2c=  -3.00	rate=54.6457
+log2c=  -2.00	rate=55.9975
+log2c=  -1.00	rate=56.1374
+log2c=   0.00	rate=57.5047
+log2c=   1.00	rate=57.8465
+log2c=   2.00	rate=59.4158
+log2c=   3.00	rate=59.8198
+log2c=   4.00	rate=59.8198
+log2c=   5.00	rate=59.8198
+log2c=   6.00	rate=59.8198
+log2c=   7.00	rate=60.5966
+log2c=   8.00	rate=60.7986
+log2c=   9.00	rate=60.7986
+log2c=  10.00	rate=60.7986
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 60.7986%
+./esn --seed=237452 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.1498
+log2c= -20.00	rate=51.041
+log2c= -19.00	rate=50.7303
+log2c= -18.00	rate=50.4195
+log2c= -17.00	rate=50.1398
+log2c= -16.00	rate=50.0466
+log2c= -15.00	rate=49.8912
+log2c= -14.00	rate=48.6172
+log2c= -13.00	rate=48.5705
+log2c= -12.00	rate=48.151
+log2c= -11.00	rate=48.0578
+log2c= -10.00	rate=48.2598
+log2c=  -9.00	rate=48.6793
+log2c=  -8.00	rate=49.7048
+log2c=  -7.00	rate=50.7303
+log2c=  -6.00	rate=52.1753
+log2c=  -5.00	rate=52.9677
+log2c=  -4.00	rate=53.8689
+log2c=  -3.00	rate=54.6147
+log2c=  -2.00	rate=55.3449
+log2c=  -1.00	rate=56.2927
+log2c=   0.00	rate=57.7999
+log2c=   1.00	rate=58.1262
+log2c=   2.00	rate=59.6799
+log2c=   3.00	rate=59.8664
+log2c=   4.00	rate=59.8975
+log2c=   5.00	rate=59.8975
+log2c=   6.00	rate=60.6588
+log2c=   7.00	rate=60.6588
+log2c=   8.00	rate=60.6588
+log2c=   9.00	rate=60.6588
+log2c=  10.00	rate=60.6588
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 60.6588%
+./esn --seed=451535 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.0566
+log2c= -20.00	rate=51.0099
+log2c= -19.00	rate=50.9633
+log2c= -18.00	rate=50.1709
+log2c= -17.00	rate=49.596
+log2c= -16.00	rate=49.1299
+log2c= -15.00	rate=48.9124
+log2c= -14.00	rate=48.7104
+log2c= -13.00	rate=48.6327
+log2c= -12.00	rate=48.6327
+log2c= -11.00	rate=48.3686
+log2c= -10.00	rate=48.1976
+log2c=  -9.00	rate=48.3686
+log2c=  -8.00	rate=48.8502
+log2c=  -7.00	rate=49.5805
+log2c=  -6.00	rate=50.2797
+log2c=  -5.00	rate=51.7557
+log2c=  -4.00	rate=52.9832
+log2c=  -3.00	rate=54.3039
+log2c=  -2.00	rate=55.7334
+log2c=  -1.00	rate=56.8365
+log2c=   0.00	rate=57.5513
+log2c=   1.00	rate=58.4369
+log2c=   2.00	rate=58.7943
+log2c=   3.00	rate=59.5401
+log2c=   4.00	rate=60.1461
+log2c=   5.00	rate=60.1461
+log2c=   6.00	rate=60.2393
+log2c=   7.00	rate=60.2859
+log2c=   8.00	rate=60.2859
+log2c=   9.00	rate=60.2859
+log2c=  10.00	rate=60.2859
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.2859%
+./esn --seed=505707 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.9534
+log2c= -22.00	rate=50
+log2c= -21.00	rate=49.8602
+log2c= -20.00	rate=49.798
+log2c= -19.00	rate=49.5494
+log2c= -18.00	rate=49.161
+log2c= -17.00	rate=48.7259
+log2c= -16.00	rate=48.4152
+log2c= -15.00	rate=48.0112
+log2c= -14.00	rate=48.1976
+log2c= -13.00	rate=48.6793
+log2c= -12.00	rate=48.5705
+log2c= -11.00	rate=48.3686
+log2c= -10.00	rate=48.3686
+log2c=  -9.00	rate=49.1454
+log2c=  -8.00	rate=49.394
+log2c=  -7.00	rate=50
+log2c=  -6.00	rate=51.4605
+log2c=  -5.00	rate=52.5171
+log2c=  -4.00	rate=53.8067
+log2c=  -3.00	rate=54.7079
+log2c=  -2.00	rate=55.9975
+log2c=  -1.00	rate=56.7122
+log2c=   0.00	rate=57.9397
+log2c=   1.00	rate=59.074
+log2c=   2.00	rate=59.7576
+log2c=   3.00	rate=60.2393
+log2c=   4.00	rate=61.6532
+log2c=   5.00	rate=61.995
+log2c=   6.00	rate=62.2281
+log2c=   7.00	rate=62.2281
+log2c=   8.00	rate=62.2281
+log2c=   9.00	rate=62.2281
+log2c=  10.00	rate=62.3524
+WARNING: maximum C reached.
+Best C = 1024  CV accuracy = 62.3524%
+./esn --seed=221974 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.1187
+log2c= -22.00	rate=51.1342
+log2c= -21.00	rate=51.1964
+log2c= -20.00	rate=50.8701
+log2c= -19.00	rate=50.3884
+log2c= -18.00	rate=50.3729
+log2c= -17.00	rate=50.3884
+log2c= -16.00	rate=50.404
+log2c= -15.00	rate=50.0466
+log2c= -14.00	rate=49.798
+log2c= -13.00	rate=49.0677
+log2c= -12.00	rate=48.6016
+log2c= -11.00	rate=48.555
+log2c= -10.00	rate=48.8191
+log2c=  -9.00	rate=49.2387
+log2c=  -8.00	rate=49.8135
+log2c=  -7.00	rate=50.3574
+log2c=  -6.00	rate=51.0255
+log2c=  -5.00	rate=51.9422
+log2c=  -4.00	rate=53.0609
+log2c=  -3.00	rate=54.5214
+log2c=  -2.00	rate=55.2983
+log2c=  -1.00	rate=55.982
+log2c=   0.00	rate=56.9608
+log2c=   1.00	rate=57.3959
+log2c=   2.00	rate=58.3903
+log2c=   3.00	rate=59.2449
+log2c=   4.00	rate=59.2449
+log2c=   5.00	rate=59.2449
+log2c=   6.00	rate=59.3536
+log2c=   7.00	rate=59.3536
+log2c=   8.00	rate=59.3536
+log2c=   9.00	rate=59.3536
+log2c=  10.00	rate=59.3536
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.3536%
+./esn --seed=888039 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.7924
+log2c= -22.00	rate=50.6526
+log2c= -21.00	rate=50.4972
+log2c= -20.00	rate=50.4661
+log2c= -19.00	rate=50.5594
+log2c= -18.00	rate=49.5805
+log2c= -17.00	rate=49.0211
+log2c= -16.00	rate=48.9279
+log2c= -15.00	rate=48.5861
+log2c= -14.00	rate=48.2287
+log2c= -13.00	rate=47.9335
+log2c= -12.00	rate=47.747
+log2c= -11.00	rate=47.8403
+log2c= -10.00	rate=48.0733
+log2c=  -9.00	rate=48.4929
+log2c=  -8.00	rate=49.5649
+log2c=  -7.00	rate=50.6681
+log2c=  -6.00	rate=51.3362
+log2c=  -5.00	rate=52.253
+log2c=  -4.00	rate=52.9677
+log2c=  -3.00	rate=54.3971
+log2c=  -2.00	rate=55.1119
+log2c=  -1.00	rate=55.7023
+log2c=   0.00	rate=57.1318
+log2c=   1.00	rate=57.9863
+log2c=   2.00	rate=58.5301
+log2c=   3.00	rate=58.5301
+log2c=   4.00	rate=58.8409
+log2c=   5.00	rate=58.8409
+log2c=   6.00	rate=59.4624
+log2c=   7.00	rate=59.4624
+log2c=   8.00	rate=59.4624
+log2c=   9.00	rate=59.4624
+log2c=  10.00	rate=59.4624
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.4624%
+./esn --seed=467437 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=48.9124
+log2c= -22.00	rate=48.9124
+log2c= -21.00	rate=48.959
+log2c= -20.00	rate=48.6327
+log2c= -19.00	rate=48.6793
+log2c= -18.00	rate=48.4462
+log2c= -17.00	rate=47.7626
+log2c= -16.00	rate=47.4829
+log2c= -15.00	rate=47.1722
+log2c= -14.00	rate=47.0789
+log2c= -13.00	rate=47.3586
+log2c= -12.00	rate=46.9391
+log2c= -11.00	rate=47.2654
+log2c= -10.00	rate=47.747
+log2c=  -9.00	rate=48.0267
+log2c=  -8.00	rate=49.0677
+log2c=  -7.00	rate=49.7048
+log2c=  -6.00	rate=50.808
+log2c=  -5.00	rate=51.7402
+log2c=  -4.00	rate=53.1697
+log2c=  -3.00	rate=53.9466
+log2c=  -2.00	rate=55.2828
+log2c=  -1.00	rate=56.1684
+log2c=   0.00	rate=57.1162
+log2c=   1.00	rate=57.8154
+log2c=   2.00	rate=58.6234
+log2c=   3.00	rate=59.307
+log2c=   4.00	rate=59.509
+log2c=   5.00	rate=59.8975
+log2c=   6.00	rate=60.3014
+log2c=   7.00	rate=60.3014
+log2c=   8.00	rate=60.4879
+log2c=   9.00	rate=60.4879
+log2c=  10.00	rate=60.4879
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 60.4879%
+./esn --seed=597170 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=51.1187
+log2c= -20.00	rate=50.9944
+log2c= -19.00	rate=50.9012
+log2c= -18.00	rate=49.8912
+log2c= -17.00	rate=49.3163
+log2c= -16.00	rate=48.8813
+log2c= -15.00	rate=48.3841
+log2c= -14.00	rate=47.8869
+log2c= -13.00	rate=47.514
+log2c= -12.00	rate=47.4984
+log2c= -11.00	rate=47.2498
+log2c= -10.00	rate=47.3897
+log2c=  -9.00	rate=47.747
+log2c=  -8.00	rate=48.4462
+log2c=  -7.00	rate=49.4251
+log2c=  -6.00	rate=50.4351
+log2c=  -5.00	rate=51.6314
+log2c=  -4.00	rate=52.8278
+log2c=  -3.00	rate=53.7912
+log2c=  -2.00	rate=55.1274
+log2c=  -1.00	rate=55.78
+log2c=   0.00	rate=56.4947
+log2c=   1.00	rate=56.8365
+log2c=   2.00	rate=58.2815
+log2c=   3.00	rate=58.7477
+log2c=   4.00	rate=58.7477
+log2c=   5.00	rate=59.4158
+log2c=   6.00	rate=59.8508
+log2c=   7.00	rate=59.8508
+log2c=   8.00	rate=59.8508
+log2c=   9.00	rate=59.8508
+log2c=  10.00	rate=59.8508
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.8508%
+./esn --seed=832059 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.0622
+log2c= -22.00	rate=49.9689
+log2c= -21.00	rate=50.0155
+log2c= -20.00	rate=49.5494
+log2c= -19.00	rate=49.161
+log2c= -18.00	rate=48.1355
+log2c= -17.00	rate=48.1821
+log2c= -16.00	rate=48.5395
+log2c= -15.00	rate=47.9956
+log2c= -14.00	rate=47.6538
+log2c= -13.00	rate=48.1666
+log2c= -12.00	rate=47.7937
+log2c= -11.00	rate=47.7937
+log2c= -10.00	rate=47.6227
+log2c=  -9.00	rate=47.4674
+log2c=  -8.00	rate=48.3375
+log2c=  -7.00	rate=49.0988
+log2c=  -6.00	rate=50.3263
+log2c=  -5.00	rate=51.6004
+log2c=  -4.00	rate=53.2007
+log2c=  -3.00	rate=54.6768
+log2c=  -2.00	rate=55.9043
+log2c=  -1.00	rate=57.1784
+log2c=   0.00	rate=57.9553
+log2c=   1.00	rate=59.4002
+log2c=   2.00	rate=59.5401
+log2c=   3.00	rate=59.7887
+log2c=   4.00	rate=60.9385
+log2c=   5.00	rate=60.9385
+log2c=   6.00	rate=61.4978
+log2c=   7.00	rate=61.4978
+log2c=   8.00	rate=61.56
+log2c=   9.00	rate=61.56
+log2c=  10.00	rate=61.56
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 61.56%
+./esn --seed=351069 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.3729
+log2c= -22.00	rate=50.2486
+log2c= -21.00	rate=50.3729
+log2c= -20.00	rate=50.4351
+log2c= -19.00	rate=50.3574
+log2c= -18.00	rate=50.1709
+log2c= -17.00	rate=49.9845
+log2c= -16.00	rate=49.1765
+log2c= -15.00	rate=48.8347
+log2c= -14.00	rate=48.2909
+log2c= -13.00	rate=47.4518
+log2c= -12.00	rate=46.9702
+log2c= -11.00	rate=46.8459
+log2c= -10.00	rate=47.8092
+log2c=  -9.00	rate=48.3841
+log2c=  -8.00	rate=48.6638
+log2c=  -7.00	rate=49.8912
+log2c=  -6.00	rate=50.9323
+log2c=  -5.00	rate=52.3306
+log2c=  -4.00	rate=53.1541
+log2c=  -3.00	rate=54.8322
+log2c=  -2.00	rate=56.0597
+log2c=  -1.00	rate=56.7899
+log2c=   0.00	rate=57.7999
+log2c=   1.00	rate=59.0584
+log2c=   2.00	rate=59.4158
+log2c=   3.00	rate=59.7421
+log2c=   4.00	rate=60.7209
+log2c=   5.00	rate=60.7209
+log2c=   6.00	rate=60.7209
+log2c=   7.00	rate=60.8608
+log2c=   8.00	rate=60.8608
+log2c=   9.00	rate=60.8608
+log2c=  10.00	rate=60.8608
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.8608%
+./esn --seed=216965 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.9323
+log2c= -22.00	rate=50.8235
+log2c= -21.00	rate=50.8235
+log2c= -20.00	rate=50.606
+log2c= -19.00	rate=49.7669
+log2c= -18.00	rate=49.8757
+log2c= -17.00	rate=49.6116
+log2c= -16.00	rate=49.0211
+log2c= -15.00	rate=48.9279
+log2c= -14.00	rate=48.7725
+log2c= -13.00	rate=48.5084
+log2c= -12.00	rate=48.151
+log2c= -11.00	rate=48.3064
+log2c= -10.00	rate=48.2443
+log2c=  -9.00	rate=48.8191
+log2c=  -8.00	rate=49.2853
+log2c=  -7.00	rate=50.0311
+log2c=  -6.00	rate=50.8856
+log2c=  -5.00	rate=52.0199
+log2c=  -4.00	rate=53.5426
+log2c=  -3.00	rate=54.2107
+log2c=  -2.00	rate=55.4537
+log2c=  -1.00	rate=56.417
+log2c=   0.00	rate=57.225
+log2c=   1.00	rate=58.6544
+log2c=   2.00	rate=59.3536
+log2c=   3.00	rate=59.6178
+log2c=   4.00	rate=59.8975
+log2c=   5.00	rate=60.5811
+log2c=   6.00	rate=60.5811
+log2c=   7.00	rate=60.6899
+log2c=   8.00	rate=60.6899
+log2c=   9.00	rate=60.6899
+log2c=  10.00	rate=60.6899
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.6899%
+./esn --seed=546021 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.1653
+log2c= -22.00	rate=51.1964
+log2c= -21.00	rate=51.1964
+log2c= -20.00	rate=51.1653
+log2c= -19.00	rate=50.9944
+log2c= -18.00	rate=50.202
+log2c= -17.00	rate=49.6582
+log2c= -16.00	rate=49.0522
+log2c= -15.00	rate=48.8036
+log2c= -14.00	rate=48.6482
+log2c= -13.00	rate=48.4462
+log2c= -12.00	rate=48.2598
+log2c= -11.00	rate=47.9956
+log2c= -10.00	rate=48.1044
+log2c=  -9.00	rate=47.9801
+log2c=  -8.00	rate=48.6327
+log2c=  -7.00	rate=49.7825
+log2c=  -6.00	rate=50.2952
+log2c=  -5.00	rate=51.5382
+log2c=  -4.00	rate=53.092
+log2c=  -3.00	rate=54.4438
+log2c=  -2.00	rate=55.4848
+log2c=  -1.00	rate=56.6346
+log2c=   0.00	rate=57.5823
+log2c=   1.00	rate=58.2349
+log2c=   2.00	rate=59.1206
+log2c=   3.00	rate=59.6644
+log2c=   4.00	rate=59.6022
+log2c=   5.00	rate=59.8198
+log2c=   6.00	rate=60.2704
+log2c=   7.00	rate=60.2704
+log2c=   8.00	rate=60.2704
+log2c=   9.00	rate=60.2704
+log2c=  10.00	rate=60.2704
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 60.2704%
+./esn --seed=266425 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.4351
+log2c= -22.00	rate=50.4195
+log2c= -21.00	rate=50.2797
+log2c= -20.00	rate=50.1709
+log2c= -19.00	rate=49.7825
+log2c= -18.00	rate=49.3474
+log2c= -17.00	rate=48.8036
+log2c= -16.00	rate=48.9434
+log2c= -15.00	rate=48.1666
+log2c= -14.00	rate=47.5917
+log2c= -13.00	rate=47.514
+log2c= -12.00	rate=47.3586
+log2c= -11.00	rate=47.4208
+log2c= -10.00	rate=47.5761
+log2c=  -9.00	rate=47.9646
+log2c=  -8.00	rate=48.6172
+log2c=  -7.00	rate=49.8757
+log2c=  -6.00	rate=51.0566
+log2c=  -5.00	rate=52.1597
+log2c=  -4.00	rate=53.2629
+log2c=  -3.00	rate=54.6302
+log2c=  -2.00	rate=55.9198
+log2c=  -1.00	rate=57.0541
+log2c=   0.00	rate=58.064
+log2c=   1.00	rate=58.7321
+log2c=   2.00	rate=58.9186
+log2c=   3.00	rate=59.8198
+log2c=   4.00	rate=60.2393
+log2c=   5.00	rate=60.2393
+log2c=   6.00	rate=60.3947
+log2c=   7.00	rate=61.0162
+log2c=   8.00	rate=61.2026
+log2c=   9.00	rate=61.2026
+log2c=  10.00	rate=61.2026
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 61.2026%
+./esn --seed=726107 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.6992
+log2c= -22.00	rate=50.606
+log2c= -21.00	rate=50.4506
+log2c= -20.00	rate=50.3263
+log2c= -19.00	rate=50.2175
+log2c= -18.00	rate=50.3108
+log2c= -17.00	rate=49.596
+log2c= -16.00	rate=49.2387
+log2c= -15.00	rate=48.4462
+log2c= -14.00	rate=48.2909
+log2c= -13.00	rate=48.1355
+log2c= -12.00	rate=48.0889
+log2c= -11.00	rate=48.0578
+log2c= -10.00	rate=48.0578
+log2c=  -9.00	rate=48.6016
+log2c=  -8.00	rate=49.0677
+log2c=  -7.00	rate=49.9223
+log2c=  -6.00	rate=50.5594
+log2c=  -5.00	rate=51.5538
+log2c=  -4.00	rate=53.1852
+log2c=  -3.00	rate=54.0242
+log2c=  -2.00	rate=55.0497
+log2c=  -1.00	rate=55.4071
+log2c=   0.00	rate=56.8832
+log2c=   1.00	rate=57.4891
+log2c=   2.00	rate=58.4525
+log2c=   3.00	rate=58.67
+log2c=   4.00	rate=58.8564
+log2c=   5.00	rate=58.8564
+log2c=   6.00	rate=59.1672
+log2c=   7.00	rate=59.1672
+log2c=   8.00	rate=59.1672
+log2c=   9.00	rate=59.1672
+log2c=  10.00	rate=59.1672
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 59.1672%
+./esn --seed=114468 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.0155
+log2c= -22.00	rate=50
+log2c= -21.00	rate=50.1398
+log2c= -20.00	rate=50.0932
+log2c= -19.00	rate=49.8135
+log2c= -18.00	rate=49.5494
+log2c= -17.00	rate=49.2853
+log2c= -16.00	rate=48.6948
+log2c= -15.00	rate=48.3996
+log2c= -14.00	rate=47.6227
+log2c= -13.00	rate=47.514
+log2c= -12.00	rate=47.8713
+log2c= -11.00	rate=47.9956
+log2c= -10.00	rate=47.6383
+log2c=  -9.00	rate=47.9646
+log2c=  -8.00	rate=48.9901
+log2c=  -7.00	rate=50.0777
+log2c=  -6.00	rate=51.243
+log2c=  -5.00	rate=52.1287
+log2c=  -4.00	rate=53.527
+log2c=  -3.00	rate=54.3971
+log2c=  -2.00	rate=55.78
+log2c=  -1.00	rate=57.6134
+log2c=   0.00	rate=58.4214
+log2c=   1.00	rate=58.9652
+log2c=   2.00	rate=59.5245
+log2c=   3.00	rate=59.6955
+log2c=   4.00	rate=60.4102
+log2c=   5.00	rate=60.7365
+log2c=   6.00	rate=60.7365
+log2c=   7.00	rate=61.2337
+log2c=   8.00	rate=61.2337
+log2c=   9.00	rate=61.2337
+log2c=  10.00	rate=61.2337
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 61.2337%
+./esn --seed=149201 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.8235
+log2c= -22.00	rate=50.7769
+log2c= -21.00	rate=50.7458
+log2c= -20.00	rate=50.3729
+log2c= -19.00	rate=50.0155
+log2c= -18.00	rate=49.596
+log2c= -17.00	rate=49.0522
+log2c= -16.00	rate=48.8036
+log2c= -15.00	rate=48.12
+log2c= -14.00	rate=47.918
+log2c= -13.00	rate=48.12
+log2c= -12.00	rate=48.0267
+log2c= -11.00	rate=47.9646
+log2c= -10.00	rate=47.747
+log2c=  -9.00	rate=48.3375
+log2c=  -8.00	rate=48.8658
+log2c=  -7.00	rate=50.3729
+log2c=  -6.00	rate=51.1809
+log2c=  -5.00	rate=52.284
+log2c=  -4.00	rate=53.1386
+log2c=  -3.00	rate=54.2884
+log2c=  -2.00	rate=55.1274
+log2c=  -1.00	rate=56.4326
+log2c=   0.00	rate=57.3493
+log2c=   1.00	rate=58.3282
+log2c=   2.00	rate=58.5301
+log2c=   3.00	rate=59.3381
+log2c=   4.00	rate=59.3381
+log2c=   5.00	rate=59.3381
+log2c=   6.00	rate=60.0062
+log2c=   7.00	rate=60.0062
+log2c=   8.00	rate=60.115
+log2c=   9.00	rate=60.115
+log2c=  10.00	rate=60.115
+WARNING: maximum C reached.
+Best C = 256  CV accuracy = 60.115%
+./esn --seed=349591 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.2175
+log2c= -22.00	rate=50.0932
+log2c= -21.00	rate=50.1243
+log2c= -20.00	rate=49.8446
+log2c= -19.00	rate=49.6737
+log2c= -18.00	rate=49.5183
+log2c= -17.00	rate=49.4406
+log2c= -16.00	rate=49.3785
+log2c= -15.00	rate=48.9279
+log2c= -14.00	rate=49.1144
+log2c= -13.00	rate=48.5239
+log2c= -12.00	rate=48.1821
+log2c= -11.00	rate=48.4307
+log2c= -10.00	rate=48.353
+log2c=  -9.00	rate=48.3996
+log2c=  -8.00	rate=49.0367
+log2c=  -7.00	rate=49.7359
+log2c=  -6.00	rate=51.1032
+log2c=  -5.00	rate=52.5326
+log2c=  -4.00	rate=53.7446
+log2c=  -3.00	rate=55.2206
+log2c=  -2.00	rate=56.1684
+log2c=  -1.00	rate=57.1628
+log2c=   0.00	rate=58.1728
+log2c=   1.00	rate=58.7011
+log2c=   2.00	rate=59.3692
+log2c=   3.00	rate=60.5811
+log2c=   4.00	rate=60.8919
+log2c=   5.00	rate=61.2648
+log2c=   6.00	rate=61.2648
+log2c=   7.00	rate=61.2648
+log2c=   8.00	rate=61.2648
+log2c=   9.00	rate=61.2648
+log2c=  10.00	rate=61.5134
+WARNING: maximum C reached.
+Best C = 1024  CV accuracy = 61.5134%
+./esn --seed=477763 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.5283
+log2c= -22.00	rate=50.5127
+log2c= -21.00	rate=50.637
+log2c= -20.00	rate=50.637
+log2c= -19.00	rate=50.5127
+log2c= -18.00	rate=49.8757
+log2c= -17.00	rate=49.3785
+log2c= -16.00	rate=48.5861
+log2c= -15.00	rate=48.4773
+log2c= -14.00	rate=47.7937
+log2c= -13.00	rate=47.6694
+log2c= -12.00	rate=47.2032
+log2c= -11.00	rate=47.5761
+log2c= -10.00	rate=48.0889
+log2c=  -9.00	rate=48.12
+log2c=  -8.00	rate=49.1299
+log2c=  -7.00	rate=50.0777
+log2c=  -6.00	rate=51.2585
+log2c=  -5.00	rate=52.051
+log2c=  -4.00	rate=53.2007
+log2c=  -3.00	rate=54.6302
+log2c=  -2.00	rate=56.0441
+log2c=  -1.00	rate=57.0385
+log2c=   0.00	rate=58.1417
+log2c=   1.00	rate=58.7166
+log2c=   2.00	rate=59.5556
+log2c=   3.00	rate=60.1927
+log2c=   4.00	rate=60.1927
+log2c=   5.00	rate=60.2237
+log2c=   6.00	rate=60.2237
+log2c=   7.00	rate=60.2237
+log2c=   8.00	rate=60.2237
+log2c=   9.00	rate=60.2237
+log2c=  10.00	rate=60.2237
+Best C = 32  CV accuracy = 60.2237%
+./esn --seed=296943 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.8546
+log2c= -22.00	rate=50.6681
+log2c= -21.00	rate=50.6681
+log2c= -20.00	rate=50.3263
+log2c= -19.00	rate=49.6737
+log2c= -18.00	rate=49.6582
+log2c= -17.00	rate=49.4717
+log2c= -16.00	rate=49.2231
+log2c= -15.00	rate=48.6172
+log2c= -14.00	rate=47.7937
+log2c= -13.00	rate=48.2598
+log2c= -12.00	rate=48.0267
+log2c= -11.00	rate=48.1666
+log2c= -10.00	rate=48.5395
+log2c=  -9.00	rate=48.7725
+log2c=  -8.00	rate=49.4096
+log2c=  -7.00	rate=49.9378
+log2c=  -6.00	rate=51.0255
+log2c=  -5.00	rate=52.2685
+log2c=  -4.00	rate=53.4338
+log2c=  -3.00	rate=54.7234
+log2c=  -2.00	rate=55.5935
+log2c=  -1.00	rate=56.8365
+log2c=   0.00	rate=57.6134
+log2c=   1.00	rate=58.4058
+log2c=   2.00	rate=58.4835
+log2c=   3.00	rate=59.9285
+log2c=   4.00	rate=60.3947
+log2c=   5.00	rate=60.3947
+log2c=   6.00	rate=60.3947
+log2c=   7.00	rate=60.3947
+log2c=   8.00	rate=60.3947
+log2c=   9.00	rate=60.5966
+log2c=  10.00	rate=60.5966
+WARNING: maximum C reached.
+Best C = 512  CV accuracy = 60.5966%
+./esn --seed=993645 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=48.8347
+log2c= -22.00	rate=48.6172
+log2c= -21.00	rate=48.7104
+log2c= -20.00	rate=48.7881
+log2c= -19.00	rate=48.7725
+log2c= -18.00	rate=48.8036
+log2c= -17.00	rate=48.2909
+log2c= -16.00	rate=48.4307
+log2c= -15.00	rate=48.3375
+log2c= -14.00	rate=48.1976
+log2c= -13.00	rate=48.6327
+log2c= -12.00	rate=48.5705
+log2c= -11.00	rate=48.353
+log2c= -10.00	rate=48.5395
+log2c=  -9.00	rate=48.8347
+log2c=  -8.00	rate=49.3163
+log2c=  -7.00	rate=50.202
+log2c=  -6.00	rate=51.1809
+log2c=  -5.00	rate=52.284
+log2c=  -4.00	rate=53.7135
+log2c=  -3.00	rate=54.77
+log2c=  -2.00	rate=55.8577
+log2c=  -1.00	rate=56.9142
+log2c=   0.00	rate=57.7999
+log2c=   1.00	rate=58.7477
+log2c=   2.00	rate=59.3381
+log2c=   3.00	rate=59.9285
+log2c=   4.00	rate=60.8452
+log2c=   5.00	rate=60.8452
+log2c=   6.00	rate=60.8452
+log2c=   7.00	rate=60.8452
+log2c=   8.00	rate=60.8452
+log2c=   9.00	rate=60.8452
+Best C = 16  CV accuracy = 60.8452%
+./esn --seed=357899 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=50.4351
+log2c= -22.00	rate=50.4972
+log2c= -21.00	rate=50.4195
+log2c= -20.00	rate=50.5749
+log2c= -19.00	rate=50.7613
+log2c= -18.00	rate=50.8701
+log2c= -17.00	rate=50.7303
+log2c= -16.00	rate=50.6837
+log2c= -15.00	rate=50.202
+log2c= -14.00	rate=49.5028
+log2c= -13.00	rate=48.9279
+log2c= -12.00	rate=47.9801
+log2c= -11.00	rate=47.7937
+log2c= -10.00	rate=47.9801
+log2c=  -9.00	rate=48.1666
+log2c=  -8.00	rate=48.9434
+log2c=  -7.00	rate=49.596
+log2c=  -6.00	rate=50.4817
+log2c=  -5.00	rate=51.2896
+log2c=  -4.00	rate=52.5792
+log2c=  -3.00	rate=54.4748
+log2c=  -2.00	rate=55.6868
+log2c=  -1.00	rate=56.5569
+log2c=   0.00	rate=57.2405
+log2c=   1.00	rate=58.1883
+log2c=   2.00	rate=58.9497
+log2c=   3.00	rate=59.2449
+log2c=   4.00	rate=59.8353
+log2c=   5.00	rate=60.1616
+log2c=   6.00	rate=60.6277
+log2c=   7.00	rate=60.7986
+log2c=   8.00	rate=60.7986
+log2c=   9.00	rate=60.7986
+log2c=  10.00	rate=60.7986
+WARNING: maximum C reached.
+Best C = 128  CV accuracy = 60.7986%
+./esn --seed=115159 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=49.9534
+log2c= -22.00	rate=50.0311
+log2c= -21.00	rate=50.0622
+log2c= -20.00	rate=50.2175
+log2c= -19.00	rate=50.1554
+log2c= -18.00	rate=50.202
+log2c= -17.00	rate=50.1709
+log2c= -16.00	rate=49.9845
+log2c= -15.00	rate=49.3008
+log2c= -14.00	rate=48.6793
+log2c= -13.00	rate=48.1976
+log2c= -12.00	rate=47.949
+log2c= -11.00	rate=47.6538
+log2c= -10.00	rate=47.9801
+log2c=  -9.00	rate=48.4929
+log2c=  -8.00	rate=49.3008
+log2c=  -7.00	rate=50.0311
+log2c=  -6.00	rate=50.9789
+log2c=  -5.00	rate=51.7091
+log2c=  -4.00	rate=52.4549
+log2c=  -3.00	rate=53.8844
+log2c=  -2.00	rate=54.8167
+log2c=  -1.00	rate=55.7334
+log2c=   0.00	rate=56.5103
+log2c=   1.00	rate=57.2561
+log2c=   2.00	rate=58.3903
+log2c=   3.00	rate=58.7787
+log2c=   4.00	rate=59.5556
+log2c=   5.00	rate=60.0218
+log2c=   6.00	rate=60.1461
+log2c=   7.00	rate=60.55
+log2c=   8.00	rate=60.55
+log2c=   9.00	rate=61.0472
+log2c=  10.00	rate=61.0472
+WARNING: maximum C reached.
+Best C = 512  CV accuracy = 61.0472%
+./esn --seed=729951 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0566
+log2c= -22.00	rate=50.9012
+log2c= -21.00	rate=50.7458
+log2c= -20.00	rate=50.5749
+log2c= -19.00	rate=50.0155
+log2c= -18.00	rate=49.6892
+log2c= -17.00	rate=49.2231
+log2c= -16.00	rate=49.1454
+log2c= -15.00	rate=48.6327
+log2c= -14.00	rate=48.1821
+log2c= -13.00	rate=47.8092
+log2c= -12.00	rate=48.0267
+log2c= -11.00	rate=48.5239
+log2c= -10.00	rate=48.3996
+log2c=  -9.00	rate=48.5705
+log2c=  -8.00	rate=49.4096
+log2c=  -7.00	rate=49.6737
+log2c=  -6.00	rate=51.3518
+log2c=  -5.00	rate=52.3306
+log2c=  -4.00	rate=53.3406
+log2c=  -3.00	rate=54.1175
+log2c=  -2.00	rate=55.5625
+log2c=  -1.00	rate=56.8832
+log2c=   0.00	rate=57.66
+log2c=   1.00	rate=58.266
+log2c=   2.00	rate=59.0584
+log2c=   3.00	rate=59.2138
+log2c=   4.00	rate=59.4002
+log2c=   5.00	rate=60.1461
+log2c=   6.00	rate=60.0373
+log2c=   7.00	rate=60.348
+log2c=   8.00	rate=60.348
+log2c=   9.00	rate=61.0628
+log2c=  10.00	rate=61.0628
+WARNING: maximum C reached.
+Best C = 512  CV accuracy = 61.0628%
+./esn --seed=16990 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state
+Total threads used: 4 (CV threads: 4, inner threads: 1)
+Doing parameter search with 5-fold cross validation.
+log2c= -23.00	rate=51.0876
+log2c= -22.00	rate=51.0876
+log2c= -21.00	rate=50.9323
+log2c= -20.00	rate=50.7924
+log2c= -19.00	rate=50.637
+log2c= -18.00	rate=50
+log2c= -17.00	rate=48.9745
+log2c= -16.00	rate=48.5084
+log2c= -15.00	rate=48.0112
+log2c= -14.00	rate=48.151
+log2c= -13.00	rate=47.5295
+log2c= -12.00	rate=47.7626
+log2c= -11.00	rate=47.514
+log2c= -10.00	rate=47.716
+log2c=  -9.00	rate=48.0733
+log2c=  -8.00	rate=48.5084
+log2c=  -7.00	rate=49.6116
+log2c=  -6.00	rate=50.6215
+log2c=  -5.00	rate=51.6159
+log2c=  -4.00	rate=52.7346
+log2c=  -3.00	rate=53.7135
+log2c=  -2.00	rate=54.8788
+log2c=  -1.00	rate=55.7023
+log2c=   0.00	rate=56.6035
+log2c=   1.00	rate=57.5202
+log2c=   2.00	rate=58.5923
+log2c=   3.00	rate=58.9497
+log2c=   4.00	rate=60.0994
+log2c=   5.00	rate=60.115
+log2c=   6.00	rate=60.55
+log2c=   7.00	rate=60.55
+log2c=   8.00	rate=60.55
+log2c=   9.00	rate=60.55
+log2c=  10.00	rate=60.55
+WARNING: maximum C reached.
+Best C = 64  CV accuracy = 60.55%
+./esn --seed=927262 --wscale=0.208811070044039 --radius=1.76640605340035 --leakage=0.112697065428667 --input=/tmp/logrel >/tmp/state

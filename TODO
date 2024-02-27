@@ -1,0 +1,30 @@
+
+How long a training region?
+sliding window, leave out one
+
+arrayfire liblinear implementation
+L2-regularized L2-loss support vector classification (dual)
+epsilon=0.01
+
+SP prediction:
+Inputs:  S&P500 open-price, max-price, min-price, close-price, S&P500 transaction volume,
+NIKKEI close-price EURUSD close-price
+eurusd prediction:
+Inputs: EURUSD open-price, max-price, min-price, close-price, S&P500 close-price, DAX close-price, NIKKEI close-price
+
+add raw inputs to svm
+
+nonlinear svm on outputs
+
+visualize grid_btcusd_hourly as 4d
+fieldvis.py
+
+reinforcement learning:
+use ga to find Wout weights which maximize reward resulting from trading on network output
+(LukoseviciusJaeger09.pdf sec 8.4, xu.pdf)
+
+visualize reservoir activation through time
+
+research:
+deep esn with feedback (outputs into lowest layer)
+hierarchies (trees) of esns

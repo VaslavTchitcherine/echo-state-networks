@@ -1,0 +1,1050 @@
+svesn.pl --wscale=0.398608 --radius=0.469174 --leakage=0.634982 --log2c=8.152539 --input=data/randomwalk
+49.63636
+svesn.pl --wscale=0.503630 --radius=1.638129 --leakage=0.655987 --log2c=-12.240623 --input=data/randomwalk
+50.20202
+svesn.pl --wscale=0.363783 --radius=0.250107 --leakage=0.199459 --log2c=1.382460 --input=data/randomwalk
+49.30302
+svesn.pl --wscale=1.772202 --radius=1.485929 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+49.54546
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.164954 --log2c=9.640745 --input=data/randomwalk
+50.98988
+svesn.pl --wscale=0.714496 --radius=0.897029 --leakage=0.518422 --log2c=-6.855538 --input=data/randomwalk
+50.40402
+svesn.pl --wscale=1.822106 --radius=1.525750 --leakage=0.283695 --log2c=-18.633973 --input=data/randomwalk
+48.37376
+svesn.pl --wscale=0.546212 --radius=1.788539 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+49.54546
+svesn.pl --wscale=1.584144 --radius=1.164651 --leakage=0.830401 --log2c=6.889231 --input=data/randomwalk
+50.67678
+svesn.pl --wscale=1.686954 --radius=1.872661 --leakage=0.473498 --log2c=-14.305588 --input=data/randomwalk
+50.35354
+svesn.pl --wscale=1.464562 --radius=0.407431 --leakage=0.446526 --log2c=-14.994684 --input=data/randomwalk
+48.38386
+svesn.pl --wscale=0.986653 --radius=1.579318 --leakage=0.119789 --log2c=3.464450 --input=data/randomwalk
+50.59596
+svesn.pl --wscale=0.270526 --radius=0.804870 --leakage=0.070300 --log2c=-0.436732 --input=data/randomwalk
+48.8889
+svesn.pl --wscale=1.706493 --radius=0.127924 --leakage=0.532265 --log2c=-0.836068 --input=data/randomwalk
+49.08082
+svesn.pl --wscale=1.059896 --radius=0.631128 --leakage=0.976440 --log2c=-5.594637 --input=data/randomwalk
+49.1616
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.17172
+svesn.pl --wscale=0.171123 --radius=0.825251 --leakage=0.289639 --log2c=-3.655908 --input=data/randomwalk
+49.88888
+svesn.pl --wscale=1.400977 --radius=1.223827 --leakage=0.665086 --log2c=-0.124376 --input=data/randomwalk
+49.89898
+svesn.pl --wscale=1.575658 --radius=1.420677 --leakage=0.379321 --log2c=-16.839900 --input=data/randomwalk
+47.96968
+svesn.pl --wscale=0.526537 --radius=1.304423 --leakage=0.537794 --log2c=-17.099910 --input=data/randomwalk
+48.9394
+svesn.pl --wscale=0.248516 --radius=1.793879 --leakage=0.489676 --log2c=-13.163106 --input=data/randomwalk
+49.51514
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.124830 --log2c=-6.085926 --input=data/randomwalk
+48.9192
+svesn.pl --wscale=0.307198 --radius=0.163572 --leakage=0.328579 --log2c=-18.582002 --input=data/randomwalk
+49.1212
+svesn.pl --wscale=1.482639 --radius=1.476112 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.48484
+svesn.pl --wscale=1.895654 --radius=0.806589 --leakage=0.531791 --log2c=-0.020338 --input=data/randomwalk
+49.48484
+svesn.pl --wscale=1.091951 --radius=0.793699 --leakage=0.152024 --log2c=-4.384277 --input=data/randomwalk
+49.50504
+svesn.pl --wscale=1.088315 --radius=1.625558 --leakage=0.534691 --log2c=6.257155 --input=data/randomwalk
+50.0303
+svesn.pl --wscale=1.376467 --radius=1.582081 --leakage=0.345645 --log2c=-3.337693 --input=data/randomwalk
+49.51516
+svesn.pl --wscale=0.459426 --radius=0.106946 --leakage=0.842808 --log2c=3.445067 --input=data/randomwalk
+49.66664
+svesn.pl --wscale=0.705291 --radius=1.394599 --leakage=0.036127 --log2c=3.721691 --input=data/randomwalk
+50.54546
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.274538 --log2c=5.612023 --input=data/randomwalk
+50.61618
+svesn.pl --wscale=1.277699 --radius=1.699510 --leakage=0.826312 --log2c=-15.042731 --input=data/randomwalk
+49.41416
+svesn.pl --wscale=0.618725 --radius=1.385823 --leakage=0.214700 --log2c=6.027570 --input=data/randomwalk
+50.03032
+svesn.pl --wscale=1.518826 --radius=1.342986 --leakage=0.272046 --log2c=-10.939235 --input=data/randomwalk
+49.72726
+svesn.pl --wscale=1.908834 --radius=1.629511 --leakage=0.045944 --log2c=1.493958 --input=data/randomwalk
+49.60608
+svesn.pl --wscale=0.212296 --radius=1.605164 --leakage=0.683088 --log2c=9.235366 --input=data/randomwalk
+49.9091
+svesn.pl --wscale=1.800982 --radius=0.314885 --leakage=0.476551 --log2c=-17.492040 --input=data/randomwalk
+48.60606
+svesn.pl --wscale=1.276662 --radius=0.934838 --leakage=0.336041 --log2c=-4.870287 --input=data/randomwalk
+50.0404
+svesn.pl --wscale=1.501373 --radius=1.529540 --leakage=0.977781 --log2c=-4.252226 --input=data/randomwalk
+51
+svesn.pl --wscale=0.620621 --radius=0.853345 --leakage=0.469724 --log2c=-7.095685 --input=data/randomwalk
+50.34344
+svesn.pl --wscale=0.996147 --radius=0.143283 --leakage=0.601667 --log2c=-2.012513 --input=data/randomwalk
+49.18182
+svesn.pl --wscale=1.061812 --radius=0.107573 --leakage=0.410172 --log2c=-19.561862 --input=data/randomwalk
+49.0808
+svesn.pl --wscale=0.836232 --radius=0.884239 --leakage=0.851065 --log2c=-10.913492 --input=data/randomwalk
+49.32322
+svesn.pl --wscale=0.365839 --radius=0.525726 --leakage=0.102441 --log2c=-7.553186 --input=data/randomwalk
+47.80808
+svesn.pl --wscale=1.902122 --radius=0.961836 --leakage=0.297737 --log2c=-13.816215 --input=data/randomwalk
+48.24242
+svesn.pl --wscale=1.555760 --radius=0.887604 --leakage=0.949407 --log2c=-1.014969 --input=data/randomwalk
+50.16162
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-8.353444 --input=data/randomwalk
+50.14142
+svesn.pl --wscale=0.957847 --radius=0.663634 --leakage=0.953996 --log2c=0.444404 --input=data/randomwalk
+50.07072
+svesn.pl --wscale=0.810605 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.05052
+svesn.pl --wscale=1.786807 --radius=0.803730 --leakage=0.110548 --log2c=2.734238 --input=data/randomwalk
+50.47476
+svesn.pl --wscale=0.789509 --radius=1.865680 --leakage=0.558197 --log2c=0.805394 --input=data/randomwalk
+49.78788
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.16162
+svesn.pl --wscale=1.817351 --radius=1.508028 --leakage=0.535783 --log2c=-0.375219 --input=data/randomwalk
+49.30304
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.087111 --log2c=-2.543990 --input=data/randomwalk
+49.64646
+svesn.pl --wscale=0.594194 --radius=0.180311 --leakage=0.220998 --log2c=-10.495943 --input=data/randomwalk
+47.49496
+svesn.pl --wscale=0.204530 --radius=1.129734 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+50.25252
+svesn.pl --wscale=0.415821 --radius=0.459262 --leakage=0.571886 --log2c=-12.141133 --input=data/randomwalk
+48.33332
+svesn.pl --wscale=1.415685 --radius=1.671991 --leakage=0.319297 --log2c=0.801827 --input=data/randomwalk
+49.69696
+svesn.pl --wscale=0.934527 --radius=1.911394 --leakage=0.918389 --log2c=-14.183442 --input=data/randomwalk
+49.21214
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+51.28282
+svesn.pl --wscale=0.408209 --radius=0.967457 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.23232
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=8.979694 --input=data/randomwalk
+50.44444
+svesn.pl --wscale=0.373522 --radius=0.775084 --leakage=0.159793 --log2c=2.008456 --input=data/randomwalk
+49.78788
+svesn.pl --wscale=0.773904 --radius=1.458168 --leakage=0.937750 --log2c=-0.289415 --input=data/randomwalk
+50.68686
+svesn.pl --wscale=0.342826 --radius=0.107830 --leakage=0.436150 --log2c=-6.633804 --input=data/randomwalk
+48.32324
+svesn.pl --wscale=0.652433 --radius=0.509709 --leakage=0.328392 --log2c=5.897080 --input=data/randomwalk
+49.80808
+svesn.pl --wscale=0.860491 --radius=0.265366 --leakage=0.055607 --log2c=-1.173263 --input=data/randomwalk
+49.2121
+svesn.pl --wscale=1.263450 --radius=1.543330 --leakage=0.661353 --log2c=-1.450277 --input=data/randomwalk
+49.9394
+svesn.pl --wscale=0.161842 --radius=0.590488 --leakage=0.437072 --log2c=-12.499835 --input=data/randomwalk
+47.8384
+svesn.pl --wscale=0.223795 --radius=1.094776 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+49.72726
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.486034 --log2c=-11.736790 --input=data/randomwalk
+49.75758
+svesn.pl --wscale=0.425005 --radius=1.597616 --leakage=0.497373 --log2c=-11.619802 --input=data/randomwalk
+49.42422
+svesn.pl --wscale=1.318340 --radius=1.617425 --leakage=0.843278 --log2c=-14.141991 --input=data/randomwalk
+48.93938
+svesn.pl --wscale=0.215163 --radius=0.542284 --leakage=0.710541 --log2c=-9.353674 --input=data/randomwalk
+48.52524
+svesn.pl --wscale=0.756050 --radius=0.380245 --leakage=0.304015 --log2c=-4.466398 --input=data/randomwalk
+49.89898
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+51.14142
+svesn.pl --wscale=0.696696 --radius=0.141381 --leakage=0.272290 --log2c=-12.421252 --input=data/randomwalk
+47.79796
+svesn.pl --wscale=1.616274 --radius=1.543006 --leakage=0.467325 --log2c=1.467801 --input=data/randomwalk
+49.23234
+svesn.pl --wscale=0.902752 --radius=1.474171 --leakage=0.772653 --log2c=-1.485466 --input=data/randomwalk
+49.19194
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.481540 --log2c=-5.884293 --input=data/randomwalk
+49.84848
+svesn.pl --wscale=1.945259 --radius=1.405879 --leakage=0.601331 --log2c=7.072710 --input=data/randomwalk
+49.42426
+svesn.pl --wscale=1.823970 --radius=0.983052 --leakage=0.975090 --log2c=-10.557532 --input=data/randomwalk
+49.0202
+svesn.pl --wscale=0.435000 --radius=0.826992 --leakage=0.782515 --log2c=0.380576 --input=data/randomwalk
+48.68686
+svesn.pl --wscale=0.389985 --radius=0.831287 --leakage=0.632448 --log2c=6.901882 --input=data/randomwalk
+49.2222
+svesn.pl --wscale=1.805305 --radius=0.120732 --leakage=0.661899 --log2c=-10.994310 --input=data/randomwalk
+49.41414
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=-13.809819 --input=data/randomwalk
+48.44444
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=8.683563 --input=data/randomwalk
+49.87878
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.82828
+svesn.pl --wscale=0.695263 --radius=0.502305 --leakage=0.914180 --log2c=-8.341036 --input=data/randomwalk
+49.43434
+svesn.pl --wscale=0.794656 --radius=1.731863 --leakage=0.274936 --log2c=-10.728907 --input=data/randomwalk
+49.36362
+svesn.pl --wscale=1.961596 --radius=0.461955 --leakage=0.676563 --log2c=1.616348 --input=data/randomwalk
+49.49496
+svesn.pl --wscale=1.432786 --radius=0.819247 --leakage=0.627032 --log2c=9.920958 --input=data/randomwalk
+49.47474
+svesn.pl --wscale=1.784197 --radius=1.382846 --leakage=0.929197 --log2c=3.157346 --input=data/randomwalk
+49.34342
+svesn.pl --wscale=1.327423 --radius=0.406570 --leakage=0.346665 --log2c=-13.116596 --input=data/randomwalk
+48.05052
+svesn.pl --wscale=0.449750 --radius=1.922168 --leakage=0.236018 --log2c=-0.296791 --input=data/randomwalk
+50.47474
+svesn.pl --wscale=1.662453 --radius=1.668949 --leakage=0.764764 --log2c=8.867127 --input=data/randomwalk
+49.7374
+svesn.pl --wscale=1.263515 --radius=0.368175 --leakage=0.171573 --log2c=-7.442528 --input=data/randomwalk
+49.15152
+svesn.pl --wscale=1.588310 --radius=0.362312 --leakage=0.674465 --log2c=-4.033729 --input=data/randomwalk
+48.84848
+svesn.pl --wscale=1.625482 --radius=1.701366 --leakage=0.977239 --log2c=8.659064 --input=data/randomwalk
+50.07072
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.156793 --log2c=-1.553280 --input=data/randomwalk
+50.8182
+gen 0 best: 51.28282, avg: 49.5773736
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=-6.319215 --input=data/randomwalk
+49.1212
+svesn.pl --wscale=0.810605 --radius=1.514018 --leakage=0.052924 --log2c=8.979694 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=1.974952 --radius=1.164651 --leakage=0.830401 --log2c=6.889231 --input=data/randomwalk
+50.85858
+svesn.pl --wscale=1.584144 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.93942
+svesn.pl --wscale=0.618725 --radius=1.385823 --leakage=0.214700 --log2c=9.640745 --input=data/randomwalk
+50.55554
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.87878
+svesn.pl --wscale=0.503630 --radius=1.394599 --leakage=0.036127 --log2c=3.721691 --input=data/randomwalk
+50.29294
+svesn.pl --wscale=0.705291 --radius=1.638129 --leakage=0.655987 --log2c=-12.240623 --input=data/randomwalk
+49.54546
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=-1.984758 --input=data/randomwalk
+49.86868
+svesn.pl --wscale=1.772202 --radius=1.485929 --leakage=0.793063 --log2c=8.979694 --input=data/randomwalk
+50.51514
+svesn.pl --wscale=0.996147 --radius=0.143283 --leakage=0.045944 --log2c=1.493958 --input=data/randomwalk
+49.32324
+svesn.pl --wscale=1.908834 --radius=1.629511 --leakage=0.601667 --log2c=-2.012513 --input=data/randomwalk
+49.70706
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.119789 --log2c=3.464450 --input=data/randomwalk
+50.45454
+svesn.pl --wscale=0.986653 --radius=1.579318 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.53534
+svesn.pl --wscale=0.435000 --radius=0.826992 --leakage=0.782515 --log2c=0.380576 --input=data/randomwalk
+49.24242
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.274538 --log2c=5.612023 --input=data/randomwalk
+50.22222
+svesn.pl --wscale=1.662453 --radius=1.699510 --leakage=0.826312 --log2c=-15.042731 --input=data/randomwalk
+49.58584
+svesn.pl --wscale=1.277699 --radius=1.668949 --leakage=0.764764 --log2c=8.867127 --input=data/randomwalk
+49.1414
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.57576
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.087111 --log2c=-2.543990 --input=data/randomwalk
+49.33334
+svesn.pl --wscale=0.526537 --radius=1.304423 --leakage=0.537794 --log2c=-17.099910 --input=data/randomwalk
+48.83838
+svesn.pl --wscale=0.373522 --radius=0.775084 --leakage=0.159793 --log2c=2.008456 --input=data/randomwalk
+49.82828
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=8.979694 --input=data/randomwalk
+50.1414
+svesn.pl --wscale=0.594194 --radius=0.180311 --leakage=0.220998 --log2c=-10.495943 --input=data/randomwalk
+47.42424
+svesn.pl --wscale=0.620621 --radius=0.853345 --leakage=0.469724 --log2c=0.444404 --input=data/randomwalk
+49.68686
+svesn.pl --wscale=0.957847 --radius=0.663634 --leakage=0.953996 --log2c=-7.095685 --input=data/randomwalk
+48.92928
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+49.53536
+svesn.pl --wscale=1.786807 --radius=0.803730 --leakage=0.110548 --log2c=2.734238 --input=data/randomwalk
+50.57578
+svesn.pl --wscale=1.518826 --radius=1.342986 --leakage=0.272046 --log2c=-10.939235 --input=data/randomwalk
+49.76768
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+50.87878
+svesn.pl --wscale=1.432786 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.63638
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.627032 --log2c=9.920958 --input=data/randomwalk
+48.9798
+svesn.pl --wscale=1.555760 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.50504
+svesn.pl --wscale=1.974952 --radius=0.887604 --leakage=0.949407 --log2c=-1.014969 --input=data/randomwalk
+49.71716
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.284835 --log2c=-1.553280 --input=data/randomwalk
+50.35354
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.37372
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.18182
+svesn.pl --wscale=1.625482 --radius=1.701366 --leakage=0.977239 --log2c=6.448554 --input=data/randomwalk
+49.0707
+svesn.pl --wscale=0.365839 --radius=0.525726 --leakage=0.102441 --log2c=-7.553186 --input=data/randomwalk
+47.79798
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.156793 --log2c=-1.553280 --input=data/randomwalk
+51.20202
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.8182
+svesn.pl --wscale=0.408209 --radius=0.967457 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.0303
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.236018 --log2c=-0.296791 --input=data/randomwalk
+50.0303
+svesn.pl --wscale=0.449750 --radius=1.922168 --leakage=0.481540 --log2c=-5.884293 --input=data/randomwalk
+49.49496
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.32324
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=8.979694 --input=data/randomwalk
+50.38382
+svesn.pl --wscale=1.945259 --radius=0.489413 --leakage=0.087111 --log2c=-2.543990 --input=data/randomwalk
+49.54546
+svesn.pl --wscale=1.294897 --radius=1.405879 --leakage=0.601331 --log2c=7.072710 --input=data/randomwalk
+49.9192
+svesn.pl --wscale=0.204530 --radius=1.129734 --leakage=0.156793 --log2c=-1.553280 --input=data/randomwalk
+49.98992
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+49.67678
+svesn.pl --wscale=0.248516 --radius=1.129734 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+49.20204
+svesn.pl --wscale=0.204530 --radius=1.793879 --leakage=0.489676 --log2c=-13.163106 --input=data/randomwalk
+50.24242
+svesn.pl --wscale=1.482639 --radius=0.819247 --leakage=0.627032 --log2c=9.920958 --input=data/randomwalk
+50.34342
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+49.79798
+svesn.pl --wscale=0.223795 --radius=1.094776 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+49.69698
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=8.683563 --input=data/randomwalk
+50.75756
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+49.8788
+svesn.pl --wscale=0.794656 --radius=1.731863 --leakage=0.274936 --log2c=-7.238892 --input=data/randomwalk
+49.41414
+svesn.pl --wscale=0.503630 --radius=1.638129 --leakage=0.152024 --log2c=-4.384277 --input=data/randomwalk
+49.44444
+svesn.pl --wscale=1.091951 --radius=0.793699 --leakage=0.655987 --log2c=-12.240623 --input=data/randomwalk
+48.76768
+svesn.pl --wscale=0.425005 --radius=1.597616 --leakage=0.497373 --log2c=3.464450 --input=data/randomwalk
+50.63636
+svesn.pl --wscale=0.986653 --radius=1.579318 --leakage=0.119789 --log2c=-11.619802 --input=data/randomwalk
+48.62626
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.486034 --log2c=-11.736790 --input=data/randomwalk
+49.83838
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-8.353444 --input=data/randomwalk
+50.40404
+svesn.pl --wscale=0.452444 --radius=1.922168 --leakage=0.236018 --log2c=-0.296791 --input=data/randomwalk
+50.0909
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.56568
+svesn.pl --wscale=0.810605 --radius=1.671991 --leakage=0.319297 --log2c=0.801827 --input=data/randomwalk
+49.30302
+svesn.pl --wscale=1.415685 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.0909
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+50.14142
+svesn.pl --wscale=0.223795 --radius=1.525750 --leakage=0.283695 --log2c=-18.633973 --input=data/randomwalk
+50.49498
+svesn.pl --wscale=1.415685 --radius=1.382846 --leakage=0.929197 --log2c=3.157346 --input=data/randomwalk
+49.697
+svesn.pl --wscale=1.784197 --radius=1.671991 --leakage=0.319297 --log2c=0.801827 --input=data/randomwalk
+49.78786
+svesn.pl --wscale=1.822106 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+49.88888
+svesn.pl --wscale=0.223795 --radius=1.094776 --leakage=0.198015 --log2c=-18.633973 --input=data/randomwalk
+49.49496
+svesn.pl --wscale=1.772202 --radius=1.485929 --leakage=0.481540 --log2c=-5.884293 --input=data/randomwalk
+49.65658
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+50.27272
+svesn.pl --wscale=0.546212 --radius=1.788539 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+50.12122
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=-13.809819 --input=data/randomwalk
+48.2828
+svesn.pl --wscale=1.327423 --radius=0.406570 --leakage=0.164954 --log2c=9.640745 --input=data/randomwalk
+50.01008
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.346665 --log2c=-13.116596 --input=data/randomwalk
+48.1818
+svesn.pl --wscale=1.584144 --radius=1.164651 --leakage=0.152024 --log2c=-4.384277 --input=data/randomwalk
+50.69698
+svesn.pl --wscale=1.091951 --radius=0.793699 --leakage=0.830401 --log2c=6.889231 --input=data/randomwalk
+50.14142
+svesn.pl --wscale=0.526537 --radius=1.304423 --leakage=0.036127 --log2c=3.721691 --input=data/randomwalk
+50.15152
+svesn.pl --wscale=0.705291 --radius=1.394599 --leakage=0.537794 --log2c=-17.099910 --input=data/randomwalk
+48.44444
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.124830 --log2c=-1.636291 --input=data/randomwalk
+49.7778
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=-6.085926 --input=data/randomwalk
+49.15152
+svesn.pl --wscale=0.307198 --radius=0.163572 --leakage=0.328579 --log2c=-8.353444 --input=data/randomwalk
+47.8283
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-18.582002 --input=data/randomwalk
+48.55554
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.57574
+svesn.pl --wscale=1.555760 --radius=0.887604 --leakage=0.949407 --log2c=-1.014969 --input=data/randomwalk
+49.94952
+svesn.pl --wscale=1.059896 --radius=0.631128 --leakage=0.976440 --log2c=5.612023 --input=data/randomwalk
+50.8182
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.274538 --log2c=-5.594637 --input=data/randomwalk
+49.34344
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=-13.809819 --input=data/randomwalk
+48.52526
+svesn.pl --wscale=0.756050 --radius=0.380245 --leakage=0.304015 --log2c=-4.466398 --input=data/randomwalk
+49.9495
+svesn.pl --wscale=1.327423 --radius=0.406570 --leakage=0.346665 --log2c=-13.116596 --input=data/randomwalk
+48.0404
+svesn.pl --wscale=1.276662 --radius=0.934838 --leakage=0.336041 --log2c=-4.870287 --input=data/randomwalk
+50.05052
+svesn.pl --wscale=0.452444 --radius=1.168314 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+50.11112
+svesn.pl --wscale=1.332949 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+49.76768
+svesn.pl --wscale=0.810605 --radius=1.514018 --leakage=0.099198 --log2c=8.683563 --input=data/randomwalk
+50.48482
+gen 1 best: 51.28282, avg: 49.8384848
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.0707
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.099198 --log2c=8.683563 --input=data/randomwalk
+50.48484
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=-6.319215 --input=data/randomwalk
+50.23232
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.052924 --log2c=3.264223 --input=data/randomwalk
+49.9798
+svesn.pl --wscale=1.584144 --radius=1.519459 --leakage=0.156793 --log2c=-1.553280 --input=data/randomwalk
+50.37376
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.44444
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.873201 --log2c=8.979694 --input=data/randomwalk
+49.94948
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.124830 --log2c=-1.636291 --input=data/randomwalk
+50.0909
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.41414
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+49.85858
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.124830 --log2c=8.979694 --input=data/randomwalk
+50.75758
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.873201 --log2c=-1.636291 --input=data/randomwalk
+49.69698
+svesn.pl --wscale=1.822106 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+50.32322
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+50.64646
+svesn.pl --wscale=1.091951 --radius=0.793699 --leakage=0.830401 --log2c=6.889231 --input=data/randomwalk
+50.0101
+svesn.pl --wscale=0.408209 --radius=0.967457 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+49.64648
+svesn.pl --wscale=0.986653 --radius=1.168314 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+49.32324
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.70706
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.0707
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+51.53536
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.119789 --log2c=3.464450 --input=data/randomwalk
+50.62626
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.284835 --log2c=-1.553280 --input=data/randomwalk
+49.66666
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+49.49494
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+49.77778
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.284835 --log2c=8.683563 --input=data/randomwalk
+50.43434
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.08082
+svesn.pl --wscale=1.327423 --radius=1.385823 --leakage=0.214700 --log2c=9.640745 --input=data/randomwalk
+50.45456
+svesn.pl --wscale=0.618725 --radius=0.406570 --leakage=0.346665 --log2c=-13.116596 --input=data/randomwalk
+47.78788
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+49.53538
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.35354
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.052924 --log2c=-3.861299 --input=data/randomwalk
+50.03032
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=-6.319215 --input=data/randomwalk
+50.34344
+svesn.pl --wscale=0.618725 --radius=1.385823 --leakage=0.214700 --log2c=9.640745 --input=data/randomwalk
+50.2323
+svesn.pl --wscale=0.526537 --radius=1.304423 --leakage=0.036127 --log2c=3.721691 --input=data/randomwalk
+50.51518
+svesn.pl --wscale=0.425005 --radius=1.597616 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+49.8384
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.497373 --log2c=3.464450 --input=data/randomwalk
+49.47476
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.57576
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+49.83838
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.55556
+svesn.pl --wscale=0.223795 --radius=1.525750 --leakage=0.283695 --log2c=-18.633973 --input=data/randomwalk
+50.1111
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.1515
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.531402 --log2c=-8.353444 --input=data/randomwalk
+49.83838
+svesn.pl --wscale=0.810605 --radius=1.514018 --leakage=0.099198 --log2c=8.867127 --input=data/randomwalk
+50.55556
+svesn.pl --wscale=1.277699 --radius=1.668949 --leakage=0.764764 --log2c=8.683563 --input=data/randomwalk
+48.93938
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+49.45456
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+50.18182
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+49.62628
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=-13.809819 --input=data/randomwalk
+48.33334
+svesn.pl --wscale=0.503630 --radius=1.638129 --leakage=0.152024 --log2c=-4.384277 --input=data/randomwalk
+50.0101
+svesn.pl --wscale=0.546212 --radius=1.788539 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+50.2323
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.41414
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.087111 --log2c=-2.543990 --input=data/randomwalk
+49.97976
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.214700 --log2c=9.640745 --input=data/randomwalk
+51.05052
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.40408
+svesn.pl --wscale=0.452444 --radius=1.168314 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+49.86866
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.793063 --log2c=-2.153677 --input=data/randomwalk
+48.80808
+svesn.pl --wscale=0.223795 --radius=1.525750 --leakage=0.283695 --log2c=-8.353444 --input=data/randomwalk
+49.50506
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-18.633973 --input=data/randomwalk
+48.11114
+svesn.pl --wscale=1.957629 --radius=0.424207 --leakage=0.486034 --log2c=-4.511183 --input=data/randomwalk
+49.0505
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-11.736790 --input=data/randomwalk
+49.36366
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+49.1717
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.88886
+svesn.pl --wscale=1.327423 --radius=0.406570 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+48.79796
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.346665 --log2c=-13.116596 --input=data/randomwalk
+48.50506
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.21214
+svesn.pl --wscale=0.794656 --radius=1.731863 --leakage=0.274936 --log2c=-4.511183 --input=data/randomwalk
+49.86868
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.37372
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.59596
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=-0.296791 --input=data/randomwalk
+50.55556
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.236018 --log2c=8.683563 --input=data/randomwalk
+49.63638
+svesn.pl --wscale=0.546212 --radius=1.788539 --leakage=0.977239 --log2c=6.448554 --input=data/randomwalk
+51.06062
+svesn.pl --wscale=1.625482 --radius=1.701366 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+50.92928
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.119789 --log2c=3.464450 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.05052
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.526711 --log2c=8.979694 --input=data/randomwalk
+49.36364
+svesn.pl --wscale=0.810605 --radius=1.514018 --leakage=0.052924 --log2c=-9.363505 --input=data/randomwalk
+49.40404
+svesn.pl --wscale=1.415685 --radius=1.382846 --leakage=0.929197 --log2c=2.621682 --input=data/randomwalk
+50.38382
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.269863 --log2c=3.157346 --input=data/randomwalk
+50.25252
+svesn.pl --wscale=1.059896 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.2828
+svesn.pl --wscale=1.332949 --radius=0.631128 --leakage=0.976440 --log2c=5.612023 --input=data/randomwalk
+50.28284
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50
+svesn.pl --wscale=1.415685 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+50.53534
+svesn.pl --wscale=0.618725 --radius=1.385823 --leakage=0.214700 --log2c=-6.085926 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=9.640745 --input=data/randomwalk
+50.68686
+svesn.pl --wscale=1.584144 --radius=1.519459 --leakage=0.637497 --log2c=-13.809819 --input=data/randomwalk
+48.80806
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.28282
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-3.861299 --input=data/randomwalk
+49.24242
+svesn.pl --wscale=0.223795 --radius=1.094776 --leakage=0.198015 --log2c=-8.353444 --input=data/randomwalk
+48.80808
+svesn.pl --wscale=1.432786 --radius=0.819247 --leakage=0.627032 --log2c=9.920958 --input=data/randomwalk
+48.90908
+svesn.pl --wscale=1.482639 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.52524
+svesn.pl --wscale=0.425005 --radius=1.597616 --leakage=0.497373 --log2c=-13.809819 --input=data/randomwalk
+48.61618
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=3.464450 --input=data/randomwalk
+49.83838
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=-6.085926 --input=data/randomwalk
+49.43434
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.274538 --log2c=5.612023 --input=data/randomwalk
+50.54544
+svesn.pl --wscale=1.482639 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.04038
+svesn.pl --wscale=1.415685 --radius=0.819247 --leakage=0.627032 --log2c=9.920958 --input=data/randomwalk
+49.89898
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.04042
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+50.28282
+svesn.pl --wscale=0.620621 --radius=0.853345 --leakage=0.469724 --log2c=0.444404 --input=data/randomwalk
+50.07068
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=-6.085926 --input=data/randomwalk
+49.23234
+gen 2 best: 51.53536, avg: 49.9929282
+svesn.pl --wscale=1.560128 --radius=1.752871 --leakage=0.531402 --log2c=-3.861299 --input=data/randomwalk
+49.52526
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.052924 --log2c=-3.861299 --input=data/randomwalk
+50.47476
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.164954 --log2c=5.612023 --input=data/randomwalk
+50.48484
+svesn.pl --wscale=1.332949 --radius=0.631128 --leakage=0.976440 --log2c=6.027570 --input=data/randomwalk
+50.32324
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.099198 --log2c=0.923480 --input=data/randomwalk
+50.30302
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+50.20202
+svesn.pl --wscale=0.452444 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+48.9192
+svesn.pl --wscale=1.101689 --radius=1.168314 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.9091
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+49.44442
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.497373 --log2c=8.979694 --input=data/randomwalk
+49.59594
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.873201 --log2c=3.464450 --input=data/randomwalk
+50.08082
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.0101
+svesn.pl --wscale=0.408209 --radius=0.967457 --leakage=0.526711 --log2c=8.979694 --input=data/randomwalk
+49.9495
+svesn.pl --wscale=1.482639 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.52524
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.24242
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.214700 --log2c=9.640745 --input=data/randomwalk
+50.56566
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.62626
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.284835 --log2c=8.683563 --input=data/randomwalk
+50.1414
+svesn.pl --wscale=1.059896 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.48484
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.486034 --log2c=-9.363505 --input=data/randomwalk
+49.60606
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-10.728907 --input=data/randomwalk
+50.63636
+svesn.pl --wscale=1.124715 --radius=1.353904 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+50.19192
+svesn.pl --wscale=1.957629 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.9798
+svesn.pl --wscale=1.957629 --radius=0.424207 --leakage=0.486034 --log2c=-4.511183 --input=data/randomwalk
+48.91918
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.1414
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=9.920958 --input=data/randomwalk
+50.55556
+svesn.pl --wscale=1.415685 --radius=0.819247 --leakage=0.627032 --log2c=-3.861299 --input=data/randomwalk
+50.07068
+svesn.pl --wscale=1.482639 --radius=1.573568 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.2323
+svesn.pl --wscale=1.318470 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.0707
+svesn.pl --wscale=0.793605 --radius=1.752871 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.84848
+svesn.pl --wscale=1.560128 --radius=1.303583 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+51.25254
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50
+svesn.pl --wscale=0.496704 --radius=1.147826 --leakage=0.131691 --log2c=9.640745 --input=data/randomwalk
+50.54546
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.911962 --log2c=-1.984758 --input=data/randomwalk
+50.15154
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.793063 --log2c=3.264223 --input=data/randomwalk
+49.9697
+svesn.pl --wscale=1.415685 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+50.15152
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.62626
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.37374
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.0303
+svesn.pl --wscale=0.449750 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+49.1818
+svesn.pl --wscale=1.101689 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.32324
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.274538 --log2c=-9.363505 --input=data/randomwalk
+49.30306
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.526711 --log2c=5.612023 --input=data/randomwalk
+49.48484
+svesn.pl --wscale=1.584144 --radius=1.519459 --leakage=0.156793 --log2c=-1.553280 --input=data/randomwalk
+50
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.45454
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.81818
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.1717
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.0909
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+50.43436
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.18182
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.198015 --log2c=-6.319215 --input=data/randomwalk
+50.47476
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.218491 --log2c=-10.728907 --input=data/randomwalk
+49.28282
+svesn.pl --wscale=1.332949 --radius=1.168314 --leakage=0.486034 --log2c=-4.511183 --input=data/randomwalk
+50.1717
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.124830 --log2c=-1.636291 --input=data/randomwalk
+51.18182
+svesn.pl --wscale=1.861571 --radius=0.721863 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.29294
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+49.80806
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.58586
+svesn.pl --wscale=1.625482 --radius=1.701366 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+50.35354
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.47476
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+51.0404
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.25254
+svesn.pl --wscale=1.332949 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.31312
+svesn.pl --wscale=1.482639 --radius=0.631128 --leakage=0.976440 --log2c=5.612023 --input=data/randomwalk
+50.51516
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.508647 --log2c=0.600552 --input=data/randomwalk
+50.1212
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.87878
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.119789 --log2c=6.448554 --input=data/randomwalk
+49.9899
+svesn.pl --wscale=0.546212 --radius=1.788539 --leakage=0.977239 --log2c=3.464450 --input=data/randomwalk
+49.81818
+svesn.pl --wscale=0.503630 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.8081
+svesn.pl --wscale=1.124715 --radius=1.638129 --leakage=0.152024 --log2c=-4.384277 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.72728
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.124830 --log2c=8.979694 --input=data/randomwalk
+50.51512
+svesn.pl --wscale=1.078764 --radius=1.525087 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+50.42426
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.49494
+svesn.pl --wscale=0.546212 --radius=1.525087 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+49.46464
+svesn.pl --wscale=1.078764 --radius=1.788539 --leakage=0.977239 --log2c=6.448554 --input=data/randomwalk
+48.9697
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.05052
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.65654
+svesn.pl --wscale=1.482639 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+49.7273
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.48484
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=0.600552 --input=data/randomwalk
+49.7172
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.508647 --log2c=3.464450 --input=data/randomwalk
+50.1515
+svesn.pl --wscale=1.415685 --radius=1.382846 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+49.67676
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.929197 --log2c=2.621682 --input=data/randomwalk
+50.0808
+svesn.pl --wscale=0.452444 --radius=1.168314 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+49.0909
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+51.04042
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+49.69698
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.6667
+svesn.pl --wscale=1.625482 --radius=1.701366 --leakage=0.156423 --log2c=5.183248 --input=data/randomwalk
+49.9495
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.58586
+svesn.pl --wscale=1.974952 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.72726
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.36364
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.164954 --log2c=-1.553280 --input=data/randomwalk
+50.21212
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=6.027570 --input=data/randomwalk
+50.52526
+svesn.pl --wscale=1.415685 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+50.39392
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.46466
+svesn.pl --wscale=1.482639 --radius=1.514018 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.09092
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.45456
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.269863 --log2c=3.157346 --input=data/randomwalk
+49.56566
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.13132
+gen 3 best: 51.53536, avg: 50.2184848
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.72726
+svesn.pl --wscale=1.124715 --radius=1.242202 --leakage=0.274538 --log2c=-9.363505 --input=data/randomwalk
+49.71718
+svesn.pl --wscale=1.560128 --radius=1.303583 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.0202
+svesn.pl --wscale=1.415685 --radius=1.382846 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.22224
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.164954 --log2c=-10.728907 --input=data/randomwalk
+48.28282
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.218491 --log2c=6.027570 --input=data/randomwalk
+50.1111
+svesn.pl --wscale=1.318470 --radius=1.242202 --leakage=0.284835 --log2c=8.683563 --input=data/randomwalk
+49.98992
+svesn.pl --wscale=0.408209 --radius=1.573568 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.84848
+svesn.pl --wscale=1.974952 --radius=1.303583 --leakage=0.052924 --log2c=-3.861299 --input=data/randomwalk
+50.32322
+svesn.pl --wscale=0.793605 --radius=1.519459 --leakage=0.610294 --log2c=-2.153677 --input=data/randomwalk
+48.84848
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-4.012102 --input=data/randomwalk
+50.89898
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.025067 --log2c=-2.153677 --input=data/randomwalk
+50.0505
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=5.612023 --input=data/randomwalk
+49.9798
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.526711 --log2c=-2.153677 --input=data/randomwalk
+49.26264
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.33334
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.39394
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.164954 --log2c=-7.590445 --input=data/randomwalk
+48.9798
+svesn.pl --wscale=1.560128 --radius=1.303583 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.86868
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.82828
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.77778
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.67676
+svesn.pl --wscale=1.482639 --radius=1.573568 --leakage=0.218491 --log2c=-19.554920 --input=data/randomwalk
+48.80808
+svesn.pl --wscale=1.822106 --radius=1.303583 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+51.1818
+svesn.pl --wscale=1.560128 --radius=1.094776 --leakage=0.198015 --log2c=9.920958 --input=data/randomwalk
+50.9394
+svesn.pl --wscale=1.078764 --radius=1.514018 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.25252
+svesn.pl --wscale=1.822106 --radius=1.788539 --leakage=0.977239 --log2c=6.448554 --input=data/randomwalk
+49.9495
+svesn.pl --wscale=0.793605 --radius=1.752871 --leakage=0.198015 --log2c=-3.861299 --input=data/randomwalk
+50.32324
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.68686
+svesn.pl --wscale=1.957629 --radius=0.631128 --leakage=0.976440 --log2c=5.612023 --input=data/randomwalk
+49.61616
+svesn.pl --wscale=1.482639 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.45454
+svesn.pl --wscale=0.793605 --radius=1.752871 --leakage=0.911962 --log2c=-4.511183 --input=data/randomwalk
+48.8586
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.218491 --log2c=3.147854 --input=data/randomwalk
+49.9798
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.7273
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.30302
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+49.55556
+svesn.pl --wscale=1.415685 --radius=1.525750 --leakage=0.283695 --log2c=-3.861299 --input=data/randomwalk
+50.33332
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.099198 --log2c=-1.984758 --input=data/randomwalk
+50.56566
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.153501 --log2c=0.923480 --input=data/randomwalk
+50.57576
+svesn.pl --wscale=1.957629 --radius=1.514018 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.57574
+svesn.pl --wscale=1.822106 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+50.73738
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.1717
+svesn.pl --wscale=1.560128 --radius=1.303583 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+51.17172
+svesn.pl --wscale=0.537455 --radius=0.886923 --leakage=0.637497 --log2c=-9.363505 --input=data/randomwalk
+49.44444
+svesn.pl --wscale=1.059896 --radius=1.133250 --leakage=0.526711 --log2c=0.600552 --input=data/randomwalk
+49.72728
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+51.15154
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.57576
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.164954 --log2c=-1.553280 --input=data/randomwalk
+50.8384
+svesn.pl --wscale=1.294897 --radius=0.489413 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.35354
+svesn.pl --wscale=1.124715 --radius=1.133250 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+50.0303
+svesn.pl --wscale=0.452444 --radius=1.242202 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.53534
+svesn.pl --wscale=0.793605 --radius=1.353904 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+50.23234
+svesn.pl --wscale=1.124715 --radius=1.303583 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.59596
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.2121
+svesn.pl --wscale=1.957629 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.54544
+svesn.pl --wscale=1.332949 --radius=0.631128 --leakage=0.976440 --log2c=-4.511183 --input=data/randomwalk
+49.48484
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.218491 --log2c=6.027570 --input=data/randomwalk
+50.59594
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.37374
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.30302
+svesn.pl --wscale=1.124715 --radius=1.133250 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.63638
+svesn.pl --wscale=0.449750 --radius=1.242202 --leakage=0.508647 --log2c=3.464450 --input=data/randomwalk
+50
+svesn.pl --wscale=1.974952 --radius=1.385823 --leakage=0.908842 --log2c=-4.511183 --input=data/randomwalk
+50.23232
+svesn.pl --wscale=1.101689 --radius=1.519459 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.87878
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.124830 --log2c=-1.636291 --input=data/randomwalk
+51.04038
+svesn.pl --wscale=1.482639 --radius=1.573568 --leakage=0.218491 --log2c=-7.238892 --input=data/randomwalk
+50.59598
+svesn.pl --wscale=1.101689 --radius=1.525087 --leakage=0.793063 --log2c=-1.984758 --input=data/randomwalk
+49.65656
+svesn.pl --wscale=1.078764 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.38384
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.284835 --log2c=8.683563 --input=data/randomwalk
+50.0404
+svesn.pl --wscale=0.408209 --radius=1.242202 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.1717
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.798
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-2.153677 --input=data/randomwalk
+51.06064
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.526711 --log2c=-10.728907 --input=data/randomwalk
+50.43434
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.099198 --log2c=6.027570 --input=data/randomwalk
+50.2525
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+50.43434
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.198015 --log2c=9.920958 --input=data/randomwalk
+50.64644
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.124830 --log2c=8.979694 --input=data/randomwalk
+50.61616
+svesn.pl --wscale=1.822106 --radius=1.514018 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.90912
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.124830 --log2c=-9.363505 --input=data/randomwalk
+47.85858
+svesn.pl --wscale=1.059896 --radius=1.133250 --leakage=0.526711 --log2c=8.979694 --input=data/randomwalk
+49.64644
+svesn.pl --wscale=1.294897 --radius=0.819247 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+50.55556
+svesn.pl --wscale=1.332949 --radius=0.489413 --leakage=0.164954 --log2c=-1.553280 --input=data/randomwalk
+50.2727
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.72726
+svesn.pl --wscale=1.560128 --radius=1.303583 --leakage=0.497373 --log2c=8.979694 --input=data/randomwalk
+49.31314
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.099198 --log2c=6.027570 --input=data/randomwalk
+49.66664
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.526711 --log2c=-9.363505 --input=data/randomwalk
+50.38384
+svesn.pl --wscale=1.105006 --radius=1.945816 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.80806
+svesn.pl --wscale=0.793605 --radius=1.752871 --leakage=0.274538 --log2c=-9.363505 --input=data/randomwalk
+49.78786
+svesn.pl --wscale=1.124715 --radius=1.168314 --leakage=0.153501 --log2c=-1.984758 --input=data/randomwalk
+50.9798
+svesn.pl --wscale=1.101689 --radius=1.242202 --leakage=0.508647 --log2c=3.464450 --input=data/randomwalk
+49.12122
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.052924 --log2c=-6.319215 --input=data/randomwalk
+50.1212
+svesn.pl --wscale=1.101689 --radius=0.744601 --leakage=0.025067 --log2c=-4.012102 --input=data/randomwalk
+49.93938
+svesn.pl --wscale=1.332949 --radius=0.744601 --leakage=0.124830 --log2c=8.979694 --input=data/randomwalk
+51.18182
+svesn.pl --wscale=0.618725 --radius=1.579318 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+50.67676
+svesn.pl --wscale=0.618725 --radius=0.744601 --leakage=0.124830 --log2c=-4.511183 --input=data/randomwalk
+49.21212
+svesn.pl --wscale=1.318470 --radius=1.573568 --leakage=0.218491 --log2c=8.979694 --input=data/randomwalk
+49.72728
+svesn.pl --wscale=1.332949 --radius=0.819247 --leakage=0.526711 --log2c=-10.728907 --input=data/randomwalk
+49.19192
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.131691 --log2c=-1.636291 --input=data/randomwalk
+49.82828
+svesn.pl --wscale=0.503630 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.90908
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.42424
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.025067 --log2c=-0.678844 --input=data/randomwalk
+50.53534
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+50.79798
+gen 4 best: 51.53536, avg: 50.230402
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.218491 --log2c=6.027570 --input=data/randomwalk
+50.32322
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.099198 --log2c=-1.984758 --input=data/randomwalk
+50.39394
+svesn.pl --wscale=0.793605 --radius=1.303583 --leakage=0.269863 --log2c=2.621682 --input=data/randomwalk
+50.1111
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+51.0808
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.218491 --log2c=-10.728907 --input=data/randomwalk
+49.16162
+svesn.pl --wscale=1.124715 --radius=1.133250 --leakage=0.486034 --log2c=6.027570 --input=data/randomwalk
+49.42424
+svesn.pl --wscale=1.332949 --radius=1.579318 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+49.78788
+svesn.pl --wscale=0.750059 --radius=0.755987 --leakage=0.164954 --log2c=-7.590445 --input=data/randomwalk
+48.62628
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.911962 --log2c=-1.553280 --input=data/randomwalk
+50.58586
+svesn.pl --wscale=1.332949 --radius=0.489413 --leakage=0.164954 --log2c=3.264223 --input=data/randomwalk
+50.29294
+svesn.pl --wscale=0.618725 --radius=1.476112 --leakage=0.099198 --log2c=-1.984758 --input=data/randomwalk
+49.8283
+svesn.pl --wscale=1.432786 --radius=1.579318 --leakage=0.218491 --log2c=-4.511183 --input=data/randomwalk
+51.0101
+svesn.pl --wscale=0.449750 --radius=1.133250 --leakage=0.099198 --log2c=6.027570 --input=data/randomwalk
+50.76768
+svesn.pl --wscale=0.452444 --radius=1.133250 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk
+49.56566
+svesn.pl --wscale=1.432786 --radius=1.476112 --leakage=0.486034 --log2c=-10.728907 --input=data/randomwalk
+49.79798
+svesn.pl --wscale=0.793605 --radius=1.353904 --leakage=0.099198 --log2c=-1.984758 --input=data/randomwalk
+50.101
+svesn.pl --wscale=1.957629 --radius=1.353904 --leakage=0.153501 --log2c=-4.012102 --input=data/randomwalk
+50.78788
+svesn.pl --wscale=1.124715 --radius=1.133250 --leakage=0.025067 --log2c=-2.153677 --input=data/randomwalk
+50.68688
+svesn.pl --wscale=1.124715 --radius=0.967457 --leakage=0.164954 --log2c=-4.511183 --input=data/randomwalk
+50.13132
+svesn.pl --wscale=1.101689 --radius=1.385823 --leakage=0.218491 --log2c=6.027570 --input=data/randomwalk
+50.32324
+svesn.pl --wscale=1.822106 --radius=0.967457 --leakage=0.164954 --log2c=6.027570 --input=data/randomwalk
+50.64646
+svesn.pl --wscale=1.124715 --radius=1.303583 --leakage=0.099198 --log2c=-1.553280 --input=data/randomwalk
+50.62626
+svesn.pl --wscale=1.822106 --radius=1.094776 --leakage=0.911962 --log2c=3.264223 --input=data/randomwalk

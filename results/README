@@ -1,0 +1,63 @@
+
+results/1
+try to optimize training length in addition to other params
+(should we fix a param to something good, for example: --wscale=1.6)
+nohup ga.pl "svesn.pl --wscale=%wscale=[0.1,2.0] --radius=%radius=[0.1,2.0] --leakage=%leakage=[0.01,0.99] --log2c=%log2c=[-20.0,10.0] --train=%train=[1000,6000] --input=data/btcusd_hourly" > results/1 &
+
+results/study_trainsize
+study_trainsize.pl
+With good params as determined by ga (on --trainsize=6000), vary training size
+Looks like around 3500 is best
+
+results/ga_btcusd_hourly_det
+DRL deterministic reservoir (Deterministic_Echo_State_Networks_Based_Stock_Pric.pdf)
+random Win, subdiagonal of W all 0.5
+
+random params
+	ranked results:
+		grep Best btcusd_hourly | sed "s/.*= //" | sed "s/%//" | sort -nr | head -5
+
+	histograms:
+		grep Best btcusd_hourly | sed "s/.*= //" | sed "s/%//" | histo
+		grep Best eurusd_ib_hourly | sed "s/.*= //" | sed "s/%//" | histo
+		grep Best randwalk | sed "s/.*= //" | sed "s/%//" | histo
+	
+With good params, btcusd_hourly also does well regardless of seed.
+svesn.pl --seed=$seed --wscale=1.7 --radius=0.56 --leakage=0.31 --log2c=-6.4 --input=data/btcusd_hourly
+study_seed.pl >results/seed2
+
+grid_btcusd_hourly is svesn grid study on btcusd_hourly 
+plot crossvalidation hit rate as function of: scale (col 2) and radius (col 3):
+	set view map
+	set pm3d at b map
+	set dgrid3d 200,200,2
+	splot "grid_btcusd_hourly" u 2:3:1
+plot crossvalidation hit rate as function of: scale (col 2) and leakage (col 4):
+	splot "grid_btcusd_hourly" u 2:4:1
+
+Reservoir cannot get too small:
+svesn.pl --wscale=0.3 --radius=1.9 --leakage=0.17 --size=1000 --input=data/msft_hourly
+is good regardless of seed, performance diminishes with reservoir size
+
+seed is many runs with good esn params, different seed
+
+cd /home/egullich/forex/montecarlo
+% oracle.pl --hitrate=0.54  --inputfile=/home/egullich/neural/reservoir/esn/data/btcusd_hourly --samplesperday=24
+Average apy: 1908.11988
+Average sharpe: 3.07292
+
+Best params from esnclassify random study:
+	logrel.pl <data/btcusd_hourly | normalize_tanh.pl >/tmp/logrel
+	esnclassify --wscale=1.73024601877102 --radius=1.98299229910553 --leakage=0.37308164834003 --reg=-8 --trainlen=6000 --testlen=535 --input=/tmp/logrel
+not very good, and not repeatable with different seeds.
+
+is from ga.pl with popsize 500, 5 gens (i.e. 2500 evals)
+ga.pl "svesn.pl --wscale=%wscale=[0.1,2.0] --radius=%radius=[0.1,2.0] --leakage=%leakage=[0.01,0.99] --log2c=%log2c=[-20.0,10.0] --input=data/btcusd_hourly" >results/ga_btcusd_hourly &
+Best params:
+svesn.pl --wscale=0.294880424731606 --radius=1.11461912687981 --leakage=0.538609449052506 --log2c=-12.7375086900586 --input=data/btcusd_hourly
+Not sensitive to seed (study_seed.pl >results/seed ; histo < results/seed)
+Also not sensitive to exact value of params:
+svesn.pl --wscale=0.3 --radius=1.1 --leakage=0.54 --log2c=-13 --input=data/btcusd_hourly
+
+ga_btcusd_hourly_dense
+ga with --sparsity=1.0
